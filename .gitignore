@@ -1,0 +1,37 @@
+# 依赖目录
+node_modules/
+frontend/node_modules/
+crawler/venv/
+
+# 构建产物
+frontend/dist/
+frontend/.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 编辑器和IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+.DS_Store
+Thumbs.db

@@ -1,0 +1,516 @@
+{
+  "metadata": {
+    "source": "北京植物园相关网站",
+    "description": "北京植物园植物数据",
+    "total_count": 29,
+    "collected_at": "2026-05-10 09:37:03",
+    "version": "1.0"
+  },
+  "plants": [
+    {
+      "id": "sample_004",
+      "name_cn": "云杉",
+      "name_latin": "Picea asperata",
+      "family": "松科",
+      "genus": "云杉属",
+      "description": "云杉是中国特有树种，树形优美，是重要的观赏和用材树种。",
+      "habitat": "喜冷凉湿润气候",
+      "distribution": "中国西南、西北",
+      "garden_zones": [
+        "裸子植物区"
+      ],
+      "protection_status": "国家三级保护",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_002",
+      "name_cn": "侧柏",
+      "name_latin": "Platycladus orientalis",
+      "family": "柏科",
+      "genus": "侧柏属",
+      "description": "侧柏是中国特产，树冠广卵形，小枝扁平。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国大部分地区",
+      "garden_zones": [
+        "裸子植物区",
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_008",
+      "name_cn": "元宝枫",
+      "name_latin": "Acer truncatum",
+      "family": "槭树科",
+      "genus": "槭属",
+      "description": "元宝枫树形优美，秋季叶色变红，是著名的观赏树种。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国北方",
+      "garden_zones": [
+        "彩叶植物区",
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_024",
+      "name_cn": "凌霄",
+      "name_latin": "Campsis grandiflora",
+      "family": "紫葳科",
+      "genus": "凌霄属",
+      "description": "凌霄是藤本植物，夏季开花，花色橙红。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国中部、华东",
+      "garden_zones": [
+        "合瓣花区"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_019",
+      "name_cn": "加杨",
+      "name_latin": "Populus canadensis",
+      "family": "杨柳科",
+      "genus": "杨属",
+      "description": "加杨是速生树种，树体高大，是常见的行道树。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "栽培品种",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_007",
+      "name_cn": "国槐",
+      "name_latin": "Sophora japonica",
+      "family": "豆科",
+      "genus": "槐属",
+      "description": "国槐是中国北方常见的乡土树种，夏季开花，香气浓郁。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国北方",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_003",
+      "name_cn": "圆柏",
+      "name_latin": "Sabina chinensis",
+      "family": "柏科",
+      "genus": "圆柏属",
+      "description": "圆柏是常绿乔木，树冠尖塔形或圆锥形。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国大部分地区",
+      "garden_zones": [
+        "裸子植物区",
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_011",
+      "name_cn": "山茱萸",
+      "name_latin": "Cornus officinalis",
+      "family": "山茱萸科",
+      "genus": "山茱萸属",
+      "description": "山茱萸是药用植物，早春开花，花色金黄。",
+      "habitat": "喜温暖湿润环境",
+      "distribution": "中国中部、华东",
+      "garden_zones": [
+        "本草园",
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_005",
+      "name_cn": "悬铃木",
+      "name_latin": "Platanus acerifolia",
+      "family": "悬铃木科",
+      "genus": "悬铃木属",
+      "description": "悬铃木是著名的行道树，又称'法桐'，树冠广阔。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "全球温带地区",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_027",
+      "name_cn": "木香",
+      "name_latin": "Rosa banksiae",
+      "family": "蔷薇科",
+      "genus": "蔷薇属",
+      "description": "木香是藤本蔷薇，春季开花，花白色或黄色，香气浓郁。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国西南",
+      "garden_zones": [
+        "藤本植物区"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_013",
+      "name_cn": "柽柳",
+      "name_latin": "Tamarix chinensis",
+      "family": "柽柳科",
+      "genus": "柽柳属",
+      "description": "柽柳是耐盐碱树种，夏季开花，花粉红色。",
+      "habitat": "喜阳光充足、耐盐碱环境",
+      "distribution": "中国北方、西北",
+      "garden_zones": [
+        "环保植物区"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_018",
+      "name_cn": "楸树",
+      "name_latin": "Catalpa bungei",
+      "family": "紫葳科",
+      "genus": "梓属",
+      "description": "楸树是中国珍贵的用材树种，树形优美，夏季开花。",
+      "habitat": "喜温暖湿润环境",
+      "distribution": "中国华北、华东、华中",
+      "garden_zones": [
+        "合瓣花区",
+        "树木园"
+      ],
+      "protection_status": "国家三级保护",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_017",
+      "name_cn": "榆叶梅",
+      "name_latin": "Prunus triloba",
+      "family": "蔷薇科",
+      "genus": "李属",
+      "description": "榆叶梅春季开花，花色粉红，花团锦簇。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国北方",
+      "garden_zones": [
+        "桃花园",
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_006",
+      "name_cn": "毛白杨",
+      "name_latin": "Populus tomentosa",
+      "family": "杨柳科",
+      "genus": "杨属",
+      "description": "毛白杨是中国北方常见的速生树种，树干通直。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国华北、西北",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_012",
+      "name_cn": "流苏树",
+      "name_latin": "Chionanthus retusus",
+      "family": "木犀科",
+      "genus": "流苏树属",
+      "description": "流苏树春季开花，花白色，形似流苏。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国华北、华东",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "国家二级保护",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_015",
+      "name_cn": "灯台树",
+      "name_latin": "Cornus controversa",
+      "family": "山茱萸科",
+      "genus": "梾木属",
+      "description": "灯台树枝条分层生长，形如灯台，树形优美。",
+      "habitat": "喜温暖湿润环境",
+      "distribution": "中国东北、华北、西南",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_001",
+      "name_cn": "白皮松",
+      "name_latin": "Pinus bungeana",
+      "family": "松科",
+      "genus": "松属",
+      "description": "白皮松是中国特有树种，树皮呈白色或灰白色，成不规则薄片脱落。",
+      "habitat": "喜阳光充足、排水良好的环境",
+      "distribution": "中国华北、西北",
+      "garden_zones": [
+        "裸子植物区",
+        "树木园"
+      ],
+      "protection_status": "国家三级保护",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_009",
+      "name_cn": "白蜡",
+      "name_latin": "Fraxinus chinensis",
+      "family": "木犀科",
+      "genus": "白蜡属",
+      "description": "白蜡是中国北方常见的乡土树种，秋季叶色变黄。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国大部分地区",
+      "garden_zones": [
+        "合瓣花区",
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_021",
+      "name_cn": "粗榧",
+      "name_latin": "Cephalotaxus sinensis",
+      "family": "三尖杉科",
+      "genus": "三尖杉属",
+      "description": "粗榧是常绿针叶树，树形优美，是中国特有树种。",
+      "habitat": "喜阴湿环境",
+      "distribution": "中国长江流域以南",
+      "garden_zones": [
+        "裸子植物区"
+      ],
+      "protection_status": "国家三级保护",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_016",
+      "name_cn": "紫叶李",
+      "name_latin": "Prunus cerasifera f. atropurpurea",
+      "family": "蔷薇科",
+      "genus": "李属",
+      "description": "紫叶李叶色常年紫红色，是著名的彩叶观赏树种。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "栽培品种",
+      "garden_zones": [
+        "彩叶植物区"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_026",
+      "name_cn": "紫藤",
+      "name_latin": "Wisteria sinensis",
+      "family": "豆科",
+      "genus": "紫藤属",
+      "description": "紫藤是著名的藤本花卉，春季开花，花紫色或白色。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国原产",
+      "garden_zones": [
+        "藤本植物区",
+        "水生与藤本植物区"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_020",
+      "name_cn": "绦柳",
+      "name_latin": "Salix matsudana f. pendula",
+      "family": "杨柳科",
+      "genus": "柳属",
+      "description": "绦柳枝条下垂，姿态优美，是常见的观赏柳树。",
+      "habitat": "喜水湿环境",
+      "distribution": "栽培品种",
+      "garden_zones": [
+        "树木园",
+        "湖区"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_025",
+      "name_cn": "美国凌霄",
+      "name_latin": "Campsis radicans",
+      "family": "紫葳科",
+      "genus": "凌霄属",
+      "description": "美国凌霄是藤本植物，原产北美，夏季开花。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "北美",
+      "garden_zones": [
+        "合瓣花区"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_010",
+      "name_cn": "臭椿",
+      "name_latin": "Ailanthus altissima",
+      "family": "苦木科",
+      "genus": "臭椿属",
+      "description": "臭椿是中国北方常见的速生树种，树冠开阔。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国大部分地区",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_029",
+      "name_cn": "迎春花",
+      "name_latin": "Jasminum nudiflorum",
+      "family": "木犀科",
+      "genus": "素馨属",
+      "description": "迎春花是早春开花的灌木，花色金黄，是春天的使者。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国华北、西北",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_030",
+      "name_cn": "连翘",
+      "name_latin": "Forsythia suspensa",
+      "family": "木犀科",
+      "genus": "连翘属",
+      "description": "连翘早春开花，花色金黄，是常见的观赏和药用植物。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国北部、中部",
+      "garden_zones": [
+        "树木园",
+        "本草园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_028",
+      "name_cn": "金银花",
+      "name_latin": "Lonicera japonica",
+      "family": "忍冬科",
+      "genus": "忍冬属",
+      "description": "金银花是藤本植物，花初开白色，后转黄色，有药用价值。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国大部分地区",
+      "garden_zones": [
+        "合瓣花区",
+        "本草园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_023",
+      "name_cn": "钻天杨",
+      "name_latin": "Populus nigra var. italica",
+      "family": "杨柳科",
+      "genus": "杨属",
+      "description": "钻天杨树形呈圆柱形，挺拔向上，是常见的观赏杨树。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "栽培品种",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    },
+    {
+      "id": "sample_014",
+      "name_cn": "雪柳",
+      "name_latin": "Fontanesia fortunei",
+      "family": "木犀科",
+      "genus": "雪柳属",
+      "description": "雪柳春季开花，花白色，密集如雪花。",
+      "habitat": "喜阳光充足环境",
+      "distribution": "中国华北、华东",
+      "garden_zones": [
+        "树木园"
+      ],
+      "protection_status": "",
+      "image_urls": [],
+      "source_url": "sample_data",
+      "collected_at": "2026-05-10 09:37:03"
+    }
+  ]
+}
