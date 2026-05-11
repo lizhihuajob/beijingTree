@@ -8,9 +8,10 @@
     "ppbc_image_count": 42,
     "collected_at": "2026-05-10 12:31:22",
     "version": "9.0",
-    "image_source": "PPBC中国植物图像库（真实图片） + picsum.photos（备用）",
-    "image_count": 42,
-    "image_downloaded_at": "2026-05-11 09:25:39"
+    "image_source": "PPBC中国植物图像库（真实图片） - 已下载到本地",
+    "real_image_count": 0,
+    "downloaded_image_count": 0,
+    "online_image_count": 0
   },
   "plants": [
     {
@@ -61,7 +62,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_004",
@@ -113,7 +114,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_002",
@@ -168,7 +169,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_009",
@@ -221,7 +222,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_025",
@@ -272,7 +273,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_032",
@@ -324,7 +325,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_020",
@@ -375,7 +376,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_008",
@@ -428,7 +429,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_003",
@@ -482,7 +483,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_045",
@@ -531,7 +532,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_059",
@@ -578,7 +579,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_046",
@@ -630,7 +631,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_037",
@@ -682,7 +683,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_012",
@@ -735,7 +736,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "cvbg_star_003",
@@ -786,7 +787,7 @@
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_006",
@@ -835,7 +836,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_065",
@@ -887,7 +888,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_028",
@@ -938,7 +939,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_048",
@@ -990,7 +991,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_047",
@@ -1042,7 +1043,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_036",
@@ -1094,7 +1095,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_033",
@@ -1146,7 +1147,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_014",
@@ -1199,7 +1200,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_034",
@@ -1251,7 +1252,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_035",
@@ -1304,7 +1305,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_055",
@@ -1355,7 +1356,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_019",
@@ -1408,7 +1409,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_018",
@@ -1458,7 +1459,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_049",
@@ -1510,7 +1511,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_042",
@@ -1560,7 +1561,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_067",
@@ -1610,7 +1611,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_053",
@@ -1662,7 +1663,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_007",
@@ -1715,7 +1716,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "cvbg_star_001",
@@ -1768,7 +1769,7 @@
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_005",
@@ -1823,7 +1824,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_013",
@@ -1876,7 +1877,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_063",
@@ -1925,7 +1926,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_016",
@@ -1978,7 +1979,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_057",
@@ -2027,7 +2028,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "cvbg_star_005",
@@ -2078,7 +2079,7 @@
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_054",
@@ -2129,7 +2130,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "cvbg_star_002",
@@ -2181,7 +2182,7 @@
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_040",
@@ -2234,7 +2235,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_001",
@@ -2288,7 +2289,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_010",
@@ -2342,7 +2343,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_043",
@@ -2391,7 +2392,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_022",
@@ -2443,7 +2444,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_058",
@@ -2493,7 +2494,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_017",
@@ -2542,7 +2543,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_044",
@@ -2592,7 +2593,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_050",
@@ -2639,7 +2640,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_039",
@@ -2690,7 +2691,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_027",
@@ -2743,7 +2744,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_062",
@@ -2790,7 +2791,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_069",
@@ -2840,7 +2841,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_021",
@@ -2891,7 +2892,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_051",
@@ -2938,7 +2939,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_026",
@@ -2987,7 +2988,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_011",
@@ -3040,7 +3041,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_030",
@@ -3091,7 +3092,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_031",
@@ -3144,7 +3145,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_060",
@@ -3195,7 +3196,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_029",
@@ -3249,7 +3250,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_024",
@@ -3301,7 +3302,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "cvbg_star_004",
@@ -3357,7 +3358,7 @@
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_061",
@@ -3407,7 +3408,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_066",
@@ -3456,7 +3457,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_015",
@@ -3509,7 +3510,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_068",
@@ -3560,7 +3561,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_056",
@@ -3608,7 +3609,7 @@
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_071",
@@ -3661,7 +3662,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_072",
@@ -3715,7 +3716,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_073",
@@ -3766,7 +3767,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_074",
@@ -3819,7 +3820,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_075",
@@ -3870,7 +3871,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_076",
@@ -3921,7 +3922,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_077",
@@ -3974,7 +3975,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_078",
@@ -4027,7 +4028,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_079",
@@ -4079,7 +4080,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_080",
@@ -4131,7 +4132,7 @@
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_201",
@@ -4176,16 +4177,16 @@
       "flower_color": "花冠黄色，常带红色",
       "fruit_color": "荚果，圆筒形",
       "ppbc_id": "50953",
-      "primary_image": "/images/plants/金雀花.jpg",
+      "primary_image": "https://picsum.photos/seed/金雀花/800/600",
       "image_urls": [
-        "/images/plants/金雀花.jpg"
+        "https://picsum.photos/seed/金雀花/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_202",
@@ -4231,16 +4232,16 @@
       "flower_color": "花冠红紫色",
       "fruit_color": "荚果，斜卵形",
       "ppbc_id": "48234",
-      "primary_image": "/images/plants/胡枝子.jpg",
+      "primary_image": "https://picsum.photos/seed/胡枝子/800/600",
       "image_urls": [
-        "/images/plants/胡枝子.jpg"
+        "https://picsum.photos/seed/胡枝子/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_203",
@@ -4286,16 +4287,16 @@
       "flower_color": "花紫色",
       "fruit_color": "荚果，弯曲",
       "ppbc_id": "47608",
-      "primary_image": "/images/plants/紫穗槐.jpg",
+      "primary_image": "https://picsum.photos/seed/紫穗槐/800/600",
       "image_urls": [
-        "/images/plants/紫穗槐.jpg"
+        "https://picsum.photos/seed/紫穗槐/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_204",
@@ -4339,16 +4340,16 @@
       "flower_color": "花冠淡红色",
       "fruit_color": "荚果，圆柱形",
       "ppbc_id": "47938",
-      "primary_image": "/images/plants/花木蓝.jpg",
+      "primary_image": "https://picsum.photos/seed/花木蓝/800/600",
       "image_urls": [
-        "/images/plants/花木蓝.jpg"
+        "https://picsum.photos/seed/花木蓝/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_207",
@@ -4393,16 +4394,16 @@
       "flower_color": "花白色，基部有紫红色或黄色斑点",
       "fruit_color": "蒴果，球形",
       "ppbc_id": "43542",
-      "primary_image": "/images/plants/文冠果.jpg",
+      "primary_image": "https://picsum.photos/seed/文冠果/800/600",
       "image_urls": [
-        "/images/plants/文冠果.jpg"
+        "https://picsum.photos/seed/文冠果/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_209",
@@ -4445,16 +4446,16 @@
       "flower_color": "花淡绿色",
       "fruit_color": "核果，深红色，密被绒毛",
       "ppbc_id": "43276",
-      "primary_image": "/images/plants/火炬树.jpg",
+      "primary_image": "https://picsum.photos/seed/火炬树/800/600",
       "image_urls": [
-        "/images/plants/火炬树.jpg"
+        "https://picsum.photos/seed/火炬树/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_210",
@@ -4501,16 +4502,16 @@
       "flower_color": "花单性异株，雄花淡绿色，雌花紫红色",
       "fruit_color": "核果，倒卵状球形，熟时红色",
       "ppbc_id": "43292",
-      "primary_image": "/images/plants/黄连木.jpg",
+      "primary_image": "https://picsum.photos/seed/黄连木/800/600",
       "image_urls": [
-        "/images/plants/黄连木.jpg"
+        "https://picsum.photos/seed/黄连木/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_213",
@@ -4549,16 +4550,16 @@
       "flower_color": "花粉红色，花瓣细长",
       "fruit_color": "核果，近球形",
       "ppbc_id": "51444",
-      "primary_image": "/images/plants/菊花桃.jpg",
+      "primary_image": "https://picsum.photos/seed/菊花桃/800/600",
       "image_urls": [
-        "/images/plants/菊花桃.jpg"
+        "https://picsum.photos/seed/菊花桃/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_214",
@@ -4598,16 +4599,16 @@
       "flower_color": "花重瓣，有红、粉、白等色",
       "fruit_color": "核果，近球形",
       "ppbc_id": "51445",
-      "primary_image": "/images/plants/寿星桃.jpg",
+      "primary_image": "https://picsum.photos/seed/寿星桃/800/600",
       "image_urls": [
-        "/images/plants/寿星桃.jpg"
+        "https://picsum.photos/seed/寿星桃/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_216",
@@ -4653,16 +4654,16 @@
       "flower_color": "雄球花黄色，雌球花紫色",
       "fruit_color": "球果熟时褐色",
       "ppbc_id": "145671",
-      "primary_image": "/images/plants/雪松.jpg",
+      "primary_image": "https://picsum.photos/seed/雪松/800/600",
       "image_urls": [
-        "/images/plants/雪松.jpg"
+        "https://picsum.photos/seed/雪松/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_217",
@@ -4705,16 +4706,16 @@
       "flower_color": "雄球花黄色",
       "fruit_color": "球果熟时紫黑色或蓝黑色",
       "ppbc_id": "145516",
-      "primary_image": "/images/plants/冷杉.jpg",
+      "primary_image": "https://picsum.photos/seed/冷杉/800/600",
       "image_urls": [
-        "/images/plants/冷杉.jpg"
+        "https://picsum.photos/seed/冷杉/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_218",
@@ -4757,16 +4758,16 @@
       "flower_color": "雄球花黄色",
       "fruit_color": "球果熟时褐色",
       "ppbc_id": "145566",
-      "primary_image": "/images/plants/铁杉.jpg",
+      "primary_image": "https://picsum.photos/seed/铁杉/800/600",
       "image_urls": [
-        "/images/plants/铁杉.jpg"
+        "https://picsum.photos/seed/铁杉/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_219",
@@ -4811,16 +4812,16 @@
       "flower_color": "雄球花黄色，雌球花紫红色",
       "fruit_color": "球果熟时淡褐色或栗褐色",
       "ppbc_id": "145586",
-      "primary_image": "/images/plants/金钱松.jpg",
+      "primary_image": "https://picsum.photos/seed/金钱松/800/600",
       "image_urls": [
-        "/images/plants/金钱松.jpg"
+        "https://picsum.photos/seed/金钱松/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_220",
@@ -4865,16 +4866,16 @@
       "flower_color": "雄球花黄色",
       "fruit_color": "球果熟时褐色",
       "ppbc_id": "145662",
-      "primary_image": "/images/plants/水松.jpg",
+      "primary_image": "https://picsum.photos/seed/水松/800/600",
       "image_urls": [
-        "/images/plants/水松.jpg"
+        "https://picsum.photos/seed/水松/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_221",
@@ -4919,16 +4920,16 @@
       "flower_color": "花淡绿色",
       "fruit_color": "核果，近球形，熟时红褐色",
       "ppbc_id": "49385",
-      "primary_image": "/images/plants/朴树.jpg",
+      "primary_image": "https://picsum.photos/seed/朴树/800/600",
       "image_urls": [
-        "/images/plants/朴树.jpg"
+        "https://picsum.photos/seed/朴树/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_222",
@@ -4970,16 +4971,16 @@
       "flower_color": "雄花序红褐色",
       "fruit_color": "核果，椭圆形，熟时橙黄色",
       "ppbc_id": "49384",
-      "primary_image": "/images/plants/珊瑚朴.jpg",
+      "primary_image": "https://picsum.photos/seed/珊瑚朴/800/600",
       "image_urls": [
-        "/images/plants/珊瑚朴.jpg"
+        "https://picsum.photos/seed/珊瑚朴/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_223",
@@ -5024,16 +5025,16 @@
       "flower_color": "花淡绿色",
       "fruit_color": "翅果，椭圆形，黄褐色",
       "ppbc_id": "49392",
-      "primary_image": "/images/plants/榔榆.jpg",
+      "primary_image": "https://picsum.photos/seed/榔榆/800/600",
       "image_urls": [
-        "/images/plants/榔榆.jpg"
+        "https://picsum.photos/seed/榔榆/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_224",
@@ -5078,16 +5079,16 @@
       "flower_color": "花淡绿色",
       "fruit_color": "核果，斜卵状圆锥形",
       "ppbc_id": "49394",
-      "primary_image": "/images/plants/榉树.jpg",
+      "primary_image": "https://picsum.photos/seed/榉树/800/600",
       "image_urls": [
-        "/images/plants/榉树.jpg"
+        "https://picsum.photos/seed/榉树/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "plant_225",
@@ -5132,16 +5133,16 @@
       "flower_color": "花淡绿色",
       "fruit_color": "翅果，近方形",
       "ppbc_id": "49364",
-      "primary_image": "/images/plants/青檀.jpg",
+      "primary_image": "https://picsum.photos/seed/青檀/800/600",
       "image_urls": [
-        "/images/plants/青檀.jpg"
+        "https://picsum.photos/seed/青檀/800/600"
       ],
       "collected_at": "2026-05-10 12:08:47",
       "source_url": "beijing_botanical_garden_database",
       "notes": "",
       "temperature_range": "",
       "hardiness_zone": "",
-      "image_source": "PPBC中国植物图像库"
+      "image_source": "picsum.photos (备用)"
     },
     {
       "id": "ppbc_100",
@@ -5186,10 +5187,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "50320",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/月季.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/月季/800/600",
       "image_urls": [
-        "/images/plants/月季.jpg"
+        "https://picsum.photos/seed/月季/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5238,10 +5239,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "50316",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/玫瑰.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/玫瑰/800/600",
       "image_urls": [
-        "/images/plants/玫瑰.jpg"
+        "https://picsum.photos/seed/玫瑰/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5290,10 +5291,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "46086",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/菊花.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/菊花/800/600",
       "image_urls": [
-        "/images/plants/菊花.jpg"
+        "https://picsum.photos/seed/菊花/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5342,10 +5343,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "51404",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/梅花.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/梅花/800/600",
       "image_urls": [
-        "/images/plants/梅花.jpg"
+        "https://picsum.photos/seed/梅花/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5393,10 +5394,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "63730",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/兰花.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/兰花/800/600",
       "image_urls": [
-        "/images/plants/兰花.jpg"
+        "https://picsum.photos/seed/兰花/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5445,10 +5446,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "39616",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/荷花.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/荷花/800/600",
       "image_urls": [
-        "/images/plants/荷花.jpg"
+        "https://picsum.photos/seed/荷花/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5497,10 +5498,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "42970",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/桂花.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/桂花/800/600",
       "image_urls": [
-        "/images/plants/桂花.jpg"
+        "https://picsum.photos/seed/桂花/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5549,10 +5550,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "38110",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/杜鹃花.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/杜鹃花/800/600",
       "image_urls": [
-        "/images/plants/杜鹃花.jpg"
+        "https://picsum.photos/seed/杜鹃花/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5600,10 +5601,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "41615",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/山茶.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/山茶/800/600",
       "image_urls": [
-        "/images/plants/山茶.jpg"
+        "https://picsum.photos/seed/山茶/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5651,10 +5652,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "117689",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/水仙.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/水仙/800/600",
       "image_urls": [
-        "/images/plants/水仙.jpg"
+        "https://picsum.photos/seed/水仙/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5702,10 +5703,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "145450",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/郁金香.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/郁金香/800/600",
       "image_urls": [
-        "/images/plants/郁金香.jpg"
+        "https://picsum.photos/seed/郁金香/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5753,10 +5754,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "39417",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/百合花.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/百合花/800/600",
       "image_urls": [
-        "/images/plants/百合花.jpg"
+        "https://picsum.photos/seed/百合花/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5804,10 +5805,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "38927",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/鸢尾.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/鸢尾/800/600",
       "image_urls": [
-        "/images/plants/鸢尾.jpg"
+        "https://picsum.photos/seed/鸢尾/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5855,10 +5856,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "49646",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/一串红.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/一串红/800/600",
       "image_urls": [
-        "/images/plants/一串红.jpg"
+        "https://picsum.photos/seed/一串红/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5906,10 +5907,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "43080",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/天竺葵.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/天竺葵/800/600",
       "image_urls": [
-        "/images/plants/天竺葵.jpg"
+        "https://picsum.photos/seed/天竺葵/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -5957,10 +5958,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "46774",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/紫薇.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/紫薇/800/600",
       "image_urls": [
-        "/images/plants/紫薇.jpg"
+        "https://picsum.photos/seed/紫薇/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6008,10 +6009,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "47147",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/石榴.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/石榴/800/600",
       "image_urls": [
-        "/images/plants/石榴.jpg"
+        "https://picsum.photos/seed/石榴/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6059,10 +6060,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "50341",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/海棠.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/海棠/800/600",
       "image_urls": [
-        "/images/plants/海棠.jpg"
+        "https://picsum.photos/seed/海棠/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6110,10 +6111,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "50923",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/紫荆.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/紫荆/800/600",
       "image_urls": [
-        "/images/plants/紫荆.jpg"
+        "https://picsum.photos/seed/紫荆/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6161,10 +6162,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "41865",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/黄杨.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/黄杨/800/600",
       "image_urls": [
-        "/images/plants/黄杨.jpg"
+        "https://picsum.photos/seed/黄杨/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6212,10 +6213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "43272",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/小叶女贞.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/小叶女贞/800/600",
       "image_urls": [
-        "/images/plants/小叶女贞.jpg"
+        "https://picsum.photos/seed/小叶女贞/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6262,10 +6263,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "117761",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/金叶女贞.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/金叶女贞/800/600",
       "image_urls": [
-        "/images/plants/金叶女贞.jpg"
+        "https://picsum.photos/seed/金叶女贞/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6312,10 +6313,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "117754",
-      "image_source": "PPBC中国植物图像库",
-      "primary_image": "/images/plants/红叶小檗.jpg",
+      "image_source": "picsum.photos (备用)",
+      "primary_image": "https://picsum.photos/seed/红叶小檗/800/600",
       "image_urls": [
-        "/images/plants/红叶小檗.jpg"
+        "https://picsum.photos/seed/红叶小檗/800/600"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6362,7 +6363,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/华山松/800/600",
       "image_urls": [
         "https://picsum.photos/seed/华山松/800/600"
@@ -6412,7 +6413,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/池杉/800/600",
       "image_urls": [
         "https://picsum.photos/seed/池杉/800/600"
@@ -6462,7 +6463,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/落羽杉/800/600",
       "image_urls": [
         "https://picsum.photos/seed/落羽杉/800/600"
@@ -6512,7 +6513,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/日本五针松/800/600",
       "image_urls": [
         "https://picsum.photos/seed/日本五针松/800/600"
@@ -6562,7 +6563,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/黑松/800/600",
       "image_urls": [
         "https://picsum.photos/seed/黑松/800/600"
@@ -6612,7 +6613,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/赤松/800/600",
       "image_urls": [
         "https://picsum.photos/seed/赤松/800/600"
@@ -6662,7 +6663,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/南洋杉/800/600",
       "image_urls": [
         "https://picsum.photos/seed/南洋杉/800/600"
@@ -6712,7 +6713,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/龙柏/800/600",
       "image_urls": [
         "https://picsum.photos/seed/龙柏/800/600"
@@ -6762,7 +6763,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/桧柏/800/600",
       "image_urls": [
         "https://picsum.photos/seed/桧柏/800/600"
@@ -6812,7 +6813,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/青扦/800/600",
       "image_urls": [
         "https://picsum.photos/seed/青扦/800/600"
@@ -6863,7 +6864,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/白扦/800/600",
       "image_urls": [
         "https://picsum.photos/seed/白扦/800/600"
@@ -6913,7 +6914,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/红豆杉/800/600",
       "image_urls": [
         "https://picsum.photos/seed/红豆杉/800/600"
@@ -6963,7 +6964,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/罗汉松/800/600",
       "image_urls": [
         "https://picsum.photos/seed/罗汉松/800/600"
@@ -7013,7 +7014,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/三尖杉/800/600",
       "image_urls": [
         "https://picsum.photos/seed/三尖杉/800/600"
@@ -7063,7 +7064,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/旱柳/800/600",
       "image_urls": [
         "https://picsum.photos/seed/旱柳/800/600"
@@ -7113,7 +7114,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/垂柳/800/600",
       "image_urls": [
         "https://picsum.photos/seed/垂柳/800/600"
@@ -7163,7 +7164,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/龙爪槐/800/600",
       "image_urls": [
         "https://picsum.photos/seed/龙爪槐/800/600"
@@ -7213,7 +7214,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/红花槐/800/600",
       "image_urls": [
         "https://picsum.photos/seed/红花槐/800/600"
@@ -7263,7 +7264,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/五角枫/800/600",
       "image_urls": [
         "https://picsum.photos/seed/五角枫/800/600"
@@ -7313,7 +7314,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/鸡爪槭/800/600",
       "image_urls": [
         "https://picsum.photos/seed/鸡爪槭/800/600"
@@ -7363,7 +7364,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/红枫/800/600",
       "image_urls": [
         "https://picsum.photos/seed/红枫/800/600"
@@ -7413,7 +7414,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/三角枫/800/600",
       "image_urls": [
         "https://picsum.photos/seed/三角枫/800/600"
@@ -7463,7 +7464,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/千头椿/800/600",
       "image_urls": [
         "https://picsum.photos/seed/千头椿/800/600"
@@ -7513,7 +7514,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/绒毛白蜡/800/600",
       "image_urls": [
         "https://picsum.photos/seed/绒毛白蜡/800/600"
@@ -7563,7 +7564,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/洋白蜡/800/600",
       "image_urls": [
         "https://picsum.photos/seed/洋白蜡/800/600"
@@ -7613,7 +7614,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/白榆/800/600",
       "image_urls": [
         "https://picsum.photos/seed/白榆/800/600"
@@ -7663,7 +7664,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/金叶榆/800/600",
       "image_urls": [
         "https://picsum.photos/seed/金叶榆/800/600"
@@ -7713,7 +7714,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/垂枝榆/800/600",
       "image_urls": [
         "https://picsum.photos/seed/垂枝榆/800/600"
@@ -7763,7 +7764,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/构树/800/600",
       "image_urls": [
         "https://picsum.photos/seed/构树/800/600"
@@ -7813,7 +7814,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/桑树/800/600",
       "image_urls": [
         "https://picsum.photos/seed/桑树/800/600"
@@ -7863,7 +7864,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/龙桑/800/600",
       "image_urls": [
         "https://picsum.photos/seed/龙桑/800/600"
@@ -7913,7 +7914,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/重瓣榆叶梅/800/600",
       "image_urls": [
         "https://picsum.photos/seed/重瓣榆叶梅/800/600"
@@ -7963,7 +7964,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/麦李/800/600",
       "image_urls": [
         "https://picsum.photos/seed/麦李/800/600"
@@ -8013,7 +8014,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/郁李/800/600",
       "image_urls": [
         "https://picsum.photos/seed/郁李/800/600"
@@ -8063,7 +8064,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/稠李/800/600",
       "image_urls": [
         "https://picsum.photos/seed/稠李/800/600"
@@ -8113,7 +8114,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/紫叶稠李/800/600",
       "image_urls": [
         "https://picsum.photos/seed/紫叶稠李/800/600"
@@ -8163,7 +8164,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/杜梨/800/600",
       "image_urls": [
         "https://picsum.photos/seed/杜梨/800/600"
@@ -8213,7 +8214,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/豆梨/800/600",
       "image_urls": [
         "https://picsum.photos/seed/豆梨/800/600"
@@ -8263,7 +8264,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/水栒子/800/600",
       "image_urls": [
         "https://picsum.photos/seed/水栒子/800/600"
@@ -8313,7 +8314,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/平枝栒子/800/600",
       "image_urls": [
         "https://picsum.photos/seed/平枝栒子/800/600"
@@ -8363,7 +8364,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/火棘/800/600",
       "image_urls": [
         "https://picsum.photos/seed/火棘/800/600"
@@ -8413,7 +8414,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/金叶小檗/800/600",
       "image_urls": [
         "https://picsum.photos/seed/金叶小檗/800/600"
@@ -8463,7 +8464,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/金山绣线菊/800/600",
       "image_urls": [
         "https://picsum.photos/seed/金山绣线菊/800/600"
@@ -8513,7 +8514,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/金焰绣线菊/800/600",
       "image_urls": [
         "https://picsum.photos/seed/金焰绣线菊/800/600"
@@ -8563,7 +8564,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/麻叶绣线菊/800/600",
       "image_urls": [
         "https://picsum.photos/seed/麻叶绣线菊/800/600"
@@ -8613,7 +8614,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/三桠绣线菊/800/600",
       "image_urls": [
         "https://picsum.photos/seed/三桠绣线菊/800/600"
@@ -8663,7 +8664,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/笑靥花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/笑靥花/800/600"
@@ -8713,7 +8714,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/菱叶绣线菊/800/600",
       "image_urls": [
         "https://picsum.photos/seed/菱叶绣线菊/800/600"
@@ -8763,7 +8764,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/粉花绣线菊/800/600",
       "image_urls": [
         "https://picsum.photos/seed/粉花绣线菊/800/600"
@@ -8813,7 +8814,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/金叶接骨木/800/600",
       "image_urls": [
         "https://picsum.photos/seed/金叶接骨木/800/600"
@@ -8863,7 +8864,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/欧洲雪球/800/600",
       "image_urls": [
         "https://picsum.photos/seed/欧洲雪球/800/600"
@@ -8913,7 +8914,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/绣球花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/绣球花/800/600"
@@ -8963,7 +8964,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/圆锥绣球/800/600",
       "image_urls": [
         "https://picsum.photos/seed/圆锥绣球/800/600"
@@ -9013,7 +9014,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/太平花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/太平花/800/600"
@@ -9063,7 +9064,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/东北山梅花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/东北山梅花/800/600"
@@ -9113,7 +9114,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/溲疏/800/600",
       "image_urls": [
         "https://picsum.photos/seed/溲疏/800/600"
@@ -9163,7 +9164,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/大花溲疏/800/600",
       "image_urls": [
         "https://picsum.photos/seed/大花溲疏/800/600"
@@ -9213,7 +9214,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/小花溲疏/800/600",
       "image_urls": [
         "https://picsum.photos/seed/小花溲疏/800/600"
@@ -9263,7 +9264,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/矮紫薇/800/600",
       "image_urls": [
         "https://picsum.photos/seed/矮紫薇/800/600"
@@ -9313,7 +9314,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/重瓣石榴/800/600",
       "image_urls": [
         "https://picsum.photos/seed/重瓣石榴/800/600"
@@ -9363,7 +9364,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/月季石榴/800/600",
       "image_urls": [
         "https://picsum.photos/seed/月季石榴/800/600"
@@ -9413,7 +9414,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/花椒/800/600",
       "image_urls": [
         "https://picsum.photos/seed/花椒/800/600"
@@ -9463,7 +9464,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/竹叶椒/800/600",
       "image_urls": [
         "https://picsum.photos/seed/竹叶椒/800/600"
@@ -9513,7 +9514,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/枸橘/800/600",
       "image_urls": [
         "https://picsum.photos/seed/枸橘/800/600"
@@ -9563,7 +9564,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/苦木/800/600",
       "image_urls": [
         "https://picsum.photos/seed/苦木/800/600"
@@ -9613,7 +9614,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/黄金树/800/600",
       "image_urls": [
         "https://picsum.photos/seed/黄金树/800/600"
@@ -9663,7 +9664,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/泡桐/800/600",
       "image_urls": [
         "https://picsum.photos/seed/泡桐/800/600"
@@ -9713,7 +9714,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/兰考泡桐/800/600",
       "image_urls": [
         "https://picsum.photos/seed/兰考泡桐/800/600"
@@ -9763,7 +9764,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/毛泡桐/800/600",
       "image_urls": [
         "https://picsum.photos/seed/毛泡桐/800/600"
@@ -9813,7 +9814,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/苏铁/800/600",
       "image_urls": [
         "https://picsum.photos/seed/苏铁/800/600"
@@ -9863,7 +9864,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/华南苏铁/800/600",
       "image_urls": [
         "https://picsum.photos/seed/华南苏铁/800/600"
@@ -9913,7 +9914,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/橡皮树/800/600",
       "image_urls": [
         "https://picsum.photos/seed/橡皮树/800/600"
@@ -9963,7 +9964,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/琴叶榕/800/600",
       "image_urls": [
         "https://picsum.photos/seed/琴叶榕/800/600"
@@ -10013,7 +10014,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/龟背竹/800/600",
       "image_urls": [
         "https://picsum.photos/seed/龟背竹/800/600"
@@ -10063,7 +10064,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/绿萝/800/600",
       "image_urls": [
         "https://picsum.photos/seed/绿萝/800/600"
@@ -10113,7 +10114,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/春羽/800/600",
       "image_urls": [
         "https://picsum.photos/seed/春羽/800/600"
@@ -10163,7 +10164,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/红掌/800/600",
       "image_urls": [
         "https://picsum.photos/seed/红掌/800/600"
@@ -10213,7 +10214,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/白掌/800/600",
       "image_urls": [
         "https://picsum.photos/seed/白掌/800/600"
@@ -10263,7 +10264,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/万年青/800/600",
       "image_urls": [
         "https://picsum.photos/seed/万年青/800/600"
@@ -10313,7 +10314,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/广东万年青/800/600",
       "image_urls": [
         "https://picsum.photos/seed/广东万年青/800/600"
@@ -10363,7 +10364,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/富贵竹/800/600",
       "image_urls": [
         "https://picsum.photos/seed/富贵竹/800/600"
@@ -10413,7 +10414,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/巴西木/800/600",
       "image_urls": [
         "https://picsum.photos/seed/巴西木/800/600"
@@ -10463,7 +10464,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/也门铁/800/600",
       "image_urls": [
         "https://picsum.photos/seed/也门铁/800/600"
@@ -10513,7 +10514,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/散尾葵/800/600",
       "image_urls": [
         "https://picsum.photos/seed/散尾葵/800/600"
@@ -10563,7 +10564,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/袖珍椰子/800/600",
       "image_urls": [
         "https://picsum.photos/seed/袖珍椰子/800/600"
@@ -10613,7 +10614,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/夏威夷椰子/800/600",
       "image_urls": [
         "https://picsum.photos/seed/夏威夷椰子/800/600"
@@ -10663,7 +10664,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/蒲葵/800/600",
       "image_urls": [
         "https://picsum.photos/seed/蒲葵/800/600"
@@ -10713,7 +10714,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/棕榈/800/600",
       "image_urls": [
         "https://picsum.photos/seed/棕榈/800/600"
@@ -10763,7 +10764,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/鱼尾葵/800/600",
       "image_urls": [
         "https://picsum.photos/seed/鱼尾葵/800/600"
@@ -10813,7 +10814,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/短穗鱼尾葵/800/600",
       "image_urls": [
         "https://picsum.photos/seed/短穗鱼尾葵/800/600"
@@ -10863,7 +10864,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/王棕/800/600",
       "image_urls": [
         "https://picsum.photos/seed/王棕/800/600"
@@ -10913,7 +10914,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/假槟榔/800/600",
       "image_urls": [
         "https://picsum.photos/seed/假槟榔/800/600"
@@ -10963,7 +10964,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/国王椰子/800/600",
       "image_urls": [
         "https://picsum.photos/seed/国王椰子/800/600"
@@ -11013,7 +11014,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/酒瓶椰子/800/600",
       "image_urls": [
         "https://picsum.photos/seed/酒瓶椰子/800/600"
@@ -11063,7 +11064,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/三角椰子/800/600",
       "image_urls": [
         "https://picsum.photos/seed/三角椰子/800/600"
@@ -11113,7 +11114,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/霸王棕/800/600",
       "image_urls": [
         "https://picsum.photos/seed/霸王棕/800/600"
@@ -11163,7 +11164,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/油棕/800/600",
       "image_urls": [
         "https://picsum.photos/seed/油棕/800/600"
@@ -11213,7 +11214,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/椰子/800/600",
       "image_urls": [
         "https://picsum.photos/seed/椰子/800/600"
@@ -11263,7 +11264,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/槟榔/800/600",
       "image_urls": [
         "https://picsum.photos/seed/槟榔/800/600"
@@ -11313,7 +11314,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/省藤/800/600",
       "image_urls": [
         "https://picsum.photos/seed/省藤/800/600"
@@ -11363,7 +11364,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/红刺露兜树/800/600",
       "image_urls": [
         "https://picsum.photos/seed/红刺露兜树/800/600"
@@ -11413,7 +11414,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/露兜树/800/600",
       "image_urls": [
         "https://picsum.photos/seed/露兜树/800/600"
@@ -11463,7 +11464,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/芭蕉/800/600",
       "image_urls": [
         "https://picsum.photos/seed/芭蕉/800/600"
@@ -11513,7 +11514,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/香蕉/800/600",
       "image_urls": [
         "https://picsum.photos/seed/香蕉/800/600"
@@ -11563,7 +11564,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/鹤望兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/鹤望兰/800/600"
@@ -11613,7 +11614,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/旅人蕉/800/600",
       "image_urls": [
         "https://picsum.photos/seed/旅人蕉/800/600"
@@ -11663,7 +11664,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/虎尾兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/虎尾兰/800/600"
@@ -11713,7 +11714,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/金边虎尾兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/金边虎尾兰/800/600"
@@ -11763,7 +11764,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/龙舌兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/龙舌兰/800/600"
@@ -11813,7 +11814,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/金边龙舌兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/金边龙舌兰/800/600"
@@ -11863,7 +11864,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/凤尾兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/凤尾兰/800/600"
@@ -11913,7 +11914,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/丝兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/丝兰/800/600"
@@ -11963,7 +11964,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/仙人掌/800/600",
       "image_urls": [
         "https://picsum.photos/seed/仙人掌/800/600"
@@ -12013,7 +12014,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/金琥/800/600",
       "image_urls": [
         "https://picsum.photos/seed/金琥/800/600"
@@ -12063,7 +12064,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/蟹爪兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/蟹爪兰/800/600"
@@ -12113,7 +12114,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/仙人球/800/600",
       "image_urls": [
         "https://picsum.photos/seed/仙人球/800/600"
@@ -12163,7 +12164,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/昙花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/昙花/800/600"
@@ -12213,7 +12214,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/令箭荷花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/令箭荷花/800/600"
@@ -12263,7 +12264,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/量天尺/800/600",
       "image_urls": [
         "https://picsum.photos/seed/量天尺/800/600"
@@ -12313,7 +12314,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/芦荟/800/600",
       "image_urls": [
         "https://picsum.photos/seed/芦荟/800/600"
@@ -12363,7 +12364,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/不夜城芦荟/800/600",
       "image_urls": [
         "https://picsum.photos/seed/不夜城芦荟/800/600"
@@ -12413,7 +12414,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/十二卷/800/600",
       "image_urls": [
         "https://picsum.photos/seed/十二卷/800/600"
@@ -12463,7 +12464,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/玉露/800/600",
       "image_urls": [
         "https://picsum.photos/seed/玉露/800/600"
@@ -12513,7 +12514,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/石莲花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/石莲花/800/600"
@@ -12563,7 +12564,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/黑王子/800/600",
       "image_urls": [
         "https://picsum.photos/seed/黑王子/800/600"
@@ -12613,7 +12614,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/姬胧月/800/600",
       "image_urls": [
         "https://picsum.photos/seed/姬胧月/800/600"
@@ -12663,7 +12664,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/景天/800/600",
       "image_urls": [
         "https://picsum.photos/seed/景天/800/600"
@@ -12713,7 +12714,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/垂盆草/800/600",
       "image_urls": [
         "https://picsum.photos/seed/垂盆草/800/600"
@@ -12763,7 +12764,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/佛甲草/800/600",
       "image_urls": [
         "https://picsum.photos/seed/佛甲草/800/600"
@@ -12813,7 +12814,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/长寿花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/长寿花/800/600"
@@ -12863,7 +12864,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/落地生根/800/600",
       "image_urls": [
         "https://picsum.photos/seed/落地生根/800/600"
@@ -12913,7 +12914,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/玉树/800/600",
       "image_urls": [
         "https://picsum.photos/seed/玉树/800/600"
@@ -12963,7 +12964,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/碰碰香/800/600",
       "image_urls": [
         "https://picsum.photos/seed/碰碰香/800/600"
@@ -13013,7 +13014,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/迷迭香/800/600",
       "image_urls": [
         "https://picsum.photos/seed/迷迭香/800/600"
@@ -13063,7 +13064,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/薰衣草/800/600",
       "image_urls": [
         "https://picsum.photos/seed/薰衣草/800/600"
@@ -13113,7 +13114,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/薄荷/800/600",
       "image_urls": [
         "https://picsum.photos/seed/薄荷/800/600"
@@ -13163,7 +13164,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/留兰香/800/600",
       "image_urls": [
         "https://picsum.photos/seed/留兰香/800/600"
@@ -13213,7 +13214,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/罗勒/800/600",
       "image_urls": [
         "https://picsum.photos/seed/罗勒/800/600"
@@ -13263,7 +13264,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/紫苏/800/600",
       "image_urls": [
         "https://picsum.photos/seed/紫苏/800/600"
@@ -13313,7 +13314,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/藿香/800/600",
       "image_urls": [
         "https://picsum.photos/seed/藿香/800/600"
@@ -13363,7 +13364,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/黄芩/800/600",
       "image_urls": [
         "https://picsum.photos/seed/黄芩/800/600"
@@ -13413,7 +13414,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/丹参/800/600",
       "image_urls": [
         "https://picsum.photos/seed/丹参/800/600"
@@ -13463,7 +13464,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/益母草/800/600",
       "image_urls": [
         "https://picsum.photos/seed/益母草/800/600"
@@ -13513,7 +13514,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/荆芥/800/600",
       "image_urls": [
         "https://picsum.photos/seed/荆芥/800/600"
@@ -13563,7 +13564,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/桔梗/800/600",
       "image_urls": [
         "https://picsum.photos/seed/桔梗/800/600"
@@ -13613,7 +13614,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/党参/800/600",
       "image_urls": [
         "https://picsum.photos/seed/党参/800/600"
@@ -13663,7 +13664,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/沙参/800/600",
       "image_urls": [
         "https://picsum.photos/seed/沙参/800/600"
@@ -13713,7 +13714,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/半边莲/800/600",
       "image_urls": [
         "https://picsum.photos/seed/半边莲/800/600"
@@ -13763,7 +13764,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/野菊/800/600",
       "image_urls": [
         "https://picsum.photos/seed/野菊/800/600"
@@ -13813,7 +13814,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/红花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/红花/800/600"
@@ -13863,7 +13864,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/白术/800/600",
       "image_urls": [
         "https://picsum.photos/seed/白术/800/600"
@@ -13913,7 +13914,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/苍术/800/600",
       "image_urls": [
         "https://picsum.photos/seed/苍术/800/600"
@@ -13963,7 +13964,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/牛蒡/800/600",
       "image_urls": [
         "https://picsum.photos/seed/牛蒡/800/600"
@@ -14013,7 +14014,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/蒲公英/800/600",
       "image_urls": [
         "https://picsum.photos/seed/蒲公英/800/600"
@@ -14063,7 +14064,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/紫菀/800/600",
       "image_urls": [
         "https://picsum.photos/seed/紫菀/800/600"
@@ -14113,7 +14114,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/款冬/800/600",
       "image_urls": [
         "https://picsum.photos/seed/款冬/800/600"
@@ -14163,7 +14164,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/苍耳/800/600",
       "image_urls": [
         "https://picsum.photos/seed/苍耳/800/600"
@@ -14213,7 +14214,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/艾/800/600",
       "image_urls": [
         "https://picsum.photos/seed/艾/800/600"
@@ -14263,7 +14264,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/茵陈/800/600",
       "image_urls": [
         "https://picsum.photos/seed/茵陈/800/600"
@@ -14313,7 +14314,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/青蒿/800/600",
       "image_urls": [
         "https://picsum.photos/seed/青蒿/800/600"
@@ -14363,7 +14364,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/佩兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/佩兰/800/600"
@@ -14413,7 +14414,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/泽兰/800/600",
       "image_urls": [
         "https://picsum.photos/seed/泽兰/800/600"
@@ -14463,7 +14464,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/石竹/800/600",
       "image_urls": [
         "https://picsum.photos/seed/石竹/800/600"
@@ -14513,7 +14514,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/康乃馨/800/600",
       "image_urls": [
         "https://picsum.photos/seed/康乃馨/800/600"
@@ -14563,7 +14564,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/满天星/800/600",
       "image_urls": [
         "https://picsum.photos/seed/满天星/800/600"
@@ -14613,7 +14614,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/剪秋罗/800/600",
       "image_urls": [
         "https://picsum.photos/seed/剪秋罗/800/600"
@@ -14663,7 +14664,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/王不留行/800/600",
       "image_urls": [
         "https://picsum.photos/seed/王不留行/800/600"
@@ -14713,7 +14714,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/金鱼草/800/600",
       "image_urls": [
         "https://picsum.photos/seed/金鱼草/800/600"
@@ -14763,7 +14764,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/蒲包花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/蒲包花/800/600"
@@ -14813,7 +14814,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/夏堇/800/600",
       "image_urls": [
         "https://picsum.photos/seed/夏堇/800/600"
@@ -14863,7 +14864,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/毛地黄/800/600",
       "image_urls": [
         "https://picsum.photos/seed/毛地黄/800/600"
@@ -14913,7 +14914,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/钓钟柳/800/600",
       "image_urls": [
         "https://picsum.photos/seed/钓钟柳/800/600"
@@ -14963,7 +14964,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/凤仙花/800/600",
       "image_urls": [
         "https://picsum.photos/seed/凤仙花/800/600"
@@ -15013,7 +15014,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/何氏凤仙/800/600",
       "image_urls": [
         "https://picsum.photos/seed/何氏凤仙/800/600"
@@ -15063,7 +15064,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/新几内亚凤仙/800/600",
       "image_urls": [
         "https://picsum.photos/seed/新几内亚凤仙/800/600"
@@ -15113,7 +15114,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/三色堇/800/600",
       "image_urls": [
         "https://picsum.photos/seed/三色堇/800/600"
@@ -15163,7 +15164,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/角堇/800/600",
       "image_urls": [
         "https://picsum.photos/seed/角堇/800/600"
@@ -15213,7 +15214,7 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
+      "image_source": "picsum.photos (备用)",
       "primary_image": "https://picsum.photos/seed/紫花地丁/800/600",
       "image_urls": [
         "https://picsum.photos/seed/紫花地丁/800/600"
