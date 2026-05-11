@@ -9,8 +9,8 @@
     "collected_at": "2026-05-10 12:31:22",
     "version": "9.0",
     "image_source": "PPBC中国植物图像库（真实图片） + picsum.photos（备用）",
-    "image_count": 42,
-    "image_downloaded_at": "2026-05-11 09:25:39"
+    "image_count": 293,
+    "image_downloaded_at": "2026-05-11 11:23:45"
   },
   "plants": [
     {
@@ -55,13 +55,13 @@
       "flower_color": "花淡紫色，里面白色",
       "fruit_color": "聚合果，卵圆形",
       "image_urls": [
-        "https://picsum.photos/seed/二乔玉兰/800/600"
+        "/images/plants/二乔玉兰.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/二乔玉兰/800/600",
+      "primary_image": "/images/plants/二乔玉兰.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_004",
@@ -107,13 +107,13 @@
       "flower_color": "雄球花黄色，雌球花紫红色或绿色",
       "fruit_color": "球果熟时淡褐色",
       "image_urls": [
-        "https://picsum.photos/seed/云杉/800/600"
+        "/images/plants/云杉.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/云杉/800/600",
+      "primary_image": "/images/plants/云杉.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_002",
@@ -162,13 +162,13 @@
       "flower_color": "雄球花黄色，雌球花蓝绿色",
       "fruit_color": "球果熟时褐色",
       "image_urls": [
-        "https://picsum.photos/seed/侧柏/800/600"
+        "/images/plants/侧柏.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/侧柏/800/600",
+      "primary_image": "/images/plants/侧柏.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_009",
@@ -215,13 +215,13 @@
       "flower_color": "花黄绿色",
       "fruit_color": "翅果，熟时淡黄色或淡褐色",
       "image_urls": [
-        "https://picsum.photos/seed/元宝枫/800/600"
+        "/images/plants/元宝枫.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/元宝枫/800/600",
+      "primary_image": "/images/plants/元宝枫.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_025",
@@ -266,13 +266,13 @@
       "flower_color": "花冠漏斗状，橙红色",
       "fruit_color": "蒴果，长如豆荚",
       "image_urls": [
-        "https://picsum.photos/seed/凌霄/800/600"
+        "/images/plants/凌霄.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/凌霄/800/600",
+      "primary_image": "/images/plants/凌霄.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_032",
@@ -318,13 +318,13 @@
       "flower_color": "花白色，有香气",
       "fruit_color": "荚果，扁平",
       "image_urls": [
-        "https://picsum.photos/seed/刺槐/800/600"
+        "/images/plants/刺槐.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/刺槐/800/600",
+      "primary_image": "/images/plants/刺槐.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_020",
@@ -369,13 +369,13 @@
       "flower_color": "雄花序黄绿色",
       "fruit_color": "蒴果2瓣裂",
       "image_urls": [
-        "https://picsum.photos/seed/加杨/800/600"
+        "/images/plants/加杨.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/加杨/800/600",
+      "primary_image": "/images/plants/加杨.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_008",
@@ -476,13 +476,13 @@
       "flower_color": "雄球花黄色",
       "fruit_color": "球果熟时暗褐色，被白粉",
       "image_urls": [
-        "https://picsum.photos/seed/圆柏/800/600"
+        "/images/plants/圆柏.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/圆柏/800/600",
+      "primary_image": "/images/plants/圆柏.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_045",
@@ -525,13 +525,13 @@
       "flower_color": "花红色或粉红色，重瓣",
       "fruit_color": "核果，近球形",
       "image_urls": [
-        "https://picsum.photos/seed/垂枝碧桃/800/600"
+        "/images/plants/垂枝碧桃.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/垂枝碧桃/800/600",
+      "primary_image": "/images/plants/垂枝碧桃.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_059",
@@ -624,13 +624,13 @@
       "flower_color": "花粉红色",
       "fruit_color": "核果，近球形，淡黄色",
       "image_urls": [
-        "https://picsum.photos/seed/山桃/800/600"
+        "/images/plants/山桃.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/山桃/800/600",
+      "primary_image": "/images/plants/山桃.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_037",
@@ -676,13 +676,13 @@
       "flower_color": "花白色",
       "fruit_color": "梨果，近球形，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/山楂/800/600"
+        "/images/plants/山楂.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/山楂/800/600",
+      "primary_image": "/images/plants/山楂.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_012",
@@ -729,13 +729,13 @@
       "flower_color": "花黄色",
       "fruit_color": "核果，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/山茱萸/800/600"
+        "/images/plants/山茱萸.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/山茱萸/800/600",
+      "primary_image": "/images/plants/山茱萸.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "cvbg_star_003",
@@ -780,13 +780,13 @@
       "flower_color": "佛焰苞外面绿色，里面紫红色",
       "fruit_color": "",
       "image_urls": [
-        "https://picsum.photos/seed/巨魔芋/800/600"
+        "/images/plants/巨魔芋.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/巨魔芋/800/600",
+      "primary_image": "/images/plants/巨魔芋.jpg",
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_006",
@@ -829,13 +829,13 @@
       "flower_color": "头状花序，花黄绿色",
       "fruit_color": "聚花果球形，熟时黄褐色",
       "image_urls": [
-        "https://picsum.photos/seed/悬铃木/800/600"
+        "/images/plants/悬铃木.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/悬铃木/800/600",
+      "primary_image": "/images/plants/悬铃木.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_065",
@@ -881,13 +881,13 @@
       "flower_color": "花白色或淡黄色",
       "fruit_color": "核果，球形，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/接骨木/800/600"
+        "/images/plants/接骨木.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/接骨木/800/600",
+      "primary_image": "/images/plants/接骨木.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_028",
@@ -932,13 +932,13 @@
       "flower_color": "花白色或黄色，重瓣",
       "fruit_color": "蔷薇果，球形，红色",
       "image_urls": [
-        "https://picsum.photos/seed/木香/800/600"
+        "/images/plants/木香.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/木香/800/600",
+      "primary_image": "/images/plants/木香.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_048",
@@ -984,13 +984,13 @@
       "flower_color": "花白色",
       "fruit_color": "核果，球形或卵圆形，熟时黄色或红色",
       "image_urls": [
-        "https://picsum.photos/seed/李/800/600"
+        "/images/plants/李.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/李/800/600",
+      "primary_image": "/images/plants/李.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_047",
@@ -1036,13 +1036,13 @@
       "flower_color": "花白色或粉红色",
       "fruit_color": "核果，球形，熟时黄白色或黄红色",
       "image_urls": [
-        "https://picsum.photos/seed/杏/800/600"
+        "/images/plants/杏.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/杏/800/600",
+      "primary_image": "/images/plants/杏.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_036",
@@ -1088,13 +1088,13 @@
       "flower_color": "雄花序黄色",
       "fruit_color": "坚果，成熟时褐色",
       "image_urls": [
-        "https://picsum.photos/seed/板栗/800/600"
+        "/images/plants/板栗.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/板栗/800/600",
+      "primary_image": "/images/plants/板栗.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_033",
@@ -1140,13 +1140,13 @@
       "flower_color": "花黄绿色",
       "fruit_color": "核果，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/枣/800/600"
+        "/images/plants/枣.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/枣/800/600",
+      "primary_image": "/images/plants/枣.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_014",
@@ -1193,13 +1193,13 @@
       "flower_color": "花粉红色",
       "fruit_color": "蒴果圆锥形",
       "image_urls": [
-        "https://picsum.photos/seed/柽柳/800/600"
+        "/images/plants/柽柳.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/柽柳/800/600",
+      "primary_image": "/images/plants/柽柳.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_034",
@@ -1245,13 +1245,13 @@
       "flower_color": "花黄白色",
       "fruit_color": "浆果，熟时橙黄色或红色",
       "image_urls": [
-        "https://picsum.photos/seed/柿/800/600"
+        "/images/plants/柿.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/柿/800/600",
+      "primary_image": "/images/plants/柿.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_035",
@@ -1298,13 +1298,13 @@
       "flower_color": "雄花序黄绿色，雌花序红色",
       "fruit_color": "核果，球形",
       "image_urls": [
-        "https://picsum.photos/seed/核桃/800/600"
+        "/images/plants/核桃.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/核桃/800/600",
+      "primary_image": "/images/plants/核桃.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_055",
@@ -1349,13 +1349,13 @@
       "flower_color": "花金黄色",
       "fruit_color": "瘦果，倒卵形",
       "image_urls": [
-        "https://picsum.photos/seed/棣棠/800/600"
+        "/images/plants/棣棠.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/棣棠/800/600",
+      "primary_image": "/images/plants/棣棠.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_019",
@@ -1402,13 +1402,13 @@
       "flower_color": "花冠淡红色",
       "fruit_color": "蒴果，线形",
       "image_urls": [
-        "https://picsum.photos/seed/楸树/800/600"
+        "/images/plants/楸树.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/楸树/800/600",
+      "primary_image": "/images/plants/楸树.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_018",
@@ -1452,13 +1452,13 @@
       "flower_color": "花粉红色",
       "fruit_color": "核果，近球形，红色",
       "image_urls": [
-        "https://picsum.photos/seed/榆叶梅/800/600"
+        "/images/plants/榆叶梅.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/榆叶梅/800/600",
+      "primary_image": "/images/plants/榆叶梅.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_049",
@@ -1504,13 +1504,13 @@
       "flower_color": "花白色",
       "fruit_color": "核果，近球形，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/樱桃/800/600"
+        "/images/plants/樱桃.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/樱桃/800/600",
+      "primary_image": "/images/plants/樱桃.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_042",
@@ -1554,13 +1554,13 @@
       "flower_color": "花粉红色或白色",
       "fruit_color": "核果，球形，熟时黑色",
       "image_urls": [
-        "https://picsum.photos/seed/樱花/800/600"
+        "/images/plants/樱花.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/樱花/800/600",
+      "primary_image": "/images/plants/樱花.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_067",
@@ -1604,13 +1604,13 @@
       "flower_color": "花白色",
       "fruit_color": "核果，近球形，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/欧洲荚蒾/800/600"
+        "/images/plants/欧洲荚蒾.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/欧洲荚蒾/800/600",
+      "primary_image": "/images/plants/欧洲荚蒾.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_053",
@@ -1656,13 +1656,13 @@
       "flower_color": "花白色或粉红色",
       "fruit_color": "核果，近球形，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/毛樱桃/800/600"
+        "/images/plants/毛樱桃.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/毛樱桃/800/600",
+      "primary_image": "/images/plants/毛樱桃.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_007",
@@ -1709,13 +1709,13 @@
       "flower_color": "雄花序红褐色",
       "fruit_color": "蒴果2瓣裂",
       "image_urls": [
-        "https://picsum.photos/seed/毛白杨/800/600"
+        "/images/plants/毛白杨.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/毛白杨/800/600",
+      "primary_image": "/images/plants/毛白杨.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "cvbg_star_001",
@@ -1762,13 +1762,13 @@
       "flower_color": "雌雄同株，雄球花黄色",
       "fruit_color": "球果熟时深褐色",
       "image_urls": [
-        "https://picsum.photos/seed/水杉/800/600"
+        "/images/plants/水杉.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/水杉/800/600",
+      "primary_image": "/images/plants/水杉.jpg",
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_005",
@@ -1817,13 +1817,13 @@
       "flower_color": "雄球花淡黄色，雌球花紫红色",
       "fruit_color": "球果熟时淡黄色或淡褐黄色",
       "image_urls": [
-        "https://picsum.photos/seed/油松/800/600"
+        "/images/plants/油松.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/油松/800/600",
+      "primary_image": "/images/plants/油松.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_013",
@@ -1870,13 +1870,13 @@
       "flower_color": "花白色，有香气",
       "fruit_color": "核果，椭圆形，熟时蓝黑色",
       "image_urls": [
-        "https://picsum.photos/seed/流苏树/800/600"
+        "/images/plants/流苏树.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/流苏树/800/600",
+      "primary_image": "/images/plants/流苏树.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_063",
@@ -1919,13 +1919,13 @@
       "flower_color": "花初开白色后转红色",
       "fruit_color": "蒴果，圆柱形",
       "image_urls": [
-        "https://picsum.photos/seed/海仙花/800/600"
+        "/images/plants/海仙花.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/海仙花/800/600",
+      "primary_image": "/images/plants/海仙花.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_016",
@@ -1972,13 +1972,13 @@
       "flower_color": "花白色",
       "fruit_color": "核果，球形，熟时紫黑色",
       "image_urls": [
-        "https://picsum.photos/seed/灯台树/800/600"
+        "/images/plants/灯台树.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/灯台树/800/600",
+      "primary_image": "/images/plants/灯台树.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_057",
@@ -2021,13 +2021,13 @@
       "flower_color": "花粉红色",
       "fruit_color": "瘦果，两个合生，密被刺刚毛",
       "image_urls": [
-        "https://picsum.photos/seed/猬实/800/600"
+        "/images/plants/猬实.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/猬实/800/600",
+      "primary_image": "/images/plants/猬实.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "cvbg_star_005",
@@ -2072,13 +2072,13 @@
       "flower_color": "初开白色，次日淡红色，第三日深红色",
       "fruit_color": "",
       "image_urls": [
-        "https://picsum.photos/seed/王莲/800/600"
+        "/images/plants/王莲.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/王莲/800/600",
+      "primary_image": "/images/plants/王莲.jpg",
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_054",
@@ -2123,13 +2123,13 @@
       "flower_color": "花白色",
       "fruit_color": "蓇葖果，长圆形",
       "image_urls": [
-        "https://picsum.photos/seed/珍珠梅/800/600"
+        "/images/plants/珍珠梅.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/珍珠梅/800/600",
+      "primary_image": "/images/plants/珍珠梅.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "cvbg_star_002",
@@ -2175,13 +2175,13 @@
       "flower_color": "苞片白色，头状花序紫绿色",
       "fruit_color": "核果紫绿色，具黄色斑点",
       "image_urls": [
-        "https://picsum.photos/seed/珙桐/800/600"
+        "/images/plants/珙桐.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/珙桐/800/600",
+      "primary_image": "/images/plants/珙桐.jpg",
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_040",
@@ -2228,13 +2228,13 @@
       "flower_color": "花白色，有香气",
       "fruit_color": "聚合果，圆柱形",
       "image_urls": [
-        "https://picsum.photos/seed/白玉兰/800/600"
+        "/images/plants/白玉兰.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/白玉兰/800/600",
+      "primary_image": "/images/plants/白玉兰.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_001",
@@ -2282,13 +2282,13 @@
       "flower_color": "雄球花黄色，雌球花绿紫色",
       "fruit_color": "球果熟时淡黄褐色",
       "image_urls": [
-        "https://picsum.photos/seed/白皮松/800/600"
+        "/images/plants/白皮松.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/白皮松/800/600",
+      "primary_image": "/images/plants/白皮松.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_010",
@@ -2336,13 +2336,13 @@
       "flower_color": "圆锥花序，花白色",
       "fruit_color": "翅果，匙形",
       "image_urls": [
-        "https://picsum.photos/seed/白蜡/800/600"
+        "/images/plants/白蜡.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/白蜡/800/600",
+      "primary_image": "/images/plants/白蜡.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_043",
@@ -2385,13 +2385,13 @@
       "flower_color": "花红色、粉红色或白色，重瓣",
       "fruit_color": "核果，近球形",
       "image_urls": [
-        "https://picsum.photos/seed/碧桃/800/600"
+        "/images/plants/碧桃.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/碧桃/800/600",
+      "primary_image": "/images/plants/碧桃.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_022",
@@ -2437,13 +2437,13 @@
       "flower_color": "雄球花黄色",
       "fruit_color": "种子卵状球形，熟时假种皮红色",
       "image_urls": [
-        "https://picsum.photos/seed/粗榧/800/600"
+        "/images/plants/粗榧.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/粗榧/800/600",
+      "primary_image": "/images/plants/粗榧.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_058",
@@ -2487,13 +2487,13 @@
       "flower_color": "花白色或粉红色，有香气",
       "fruit_color": "瘦果，圆柱形",
       "image_urls": [
-        "https://picsum.photos/seed/糯米条/800/600"
+        "/images/plants/糯米条.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/糯米条/800/600",
+      "primary_image": "/images/plants/糯米条.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_017",
@@ -2536,13 +2536,13 @@
       "flower_color": "花淡粉红色",
       "fruit_color": "核果，球形，熟时紫红色",
       "image_urls": [
-        "https://picsum.photos/seed/紫叶李/800/600"
+        "/images/plants/紫叶李.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/紫叶李/800/600",
+      "primary_image": "/images/plants/紫叶李.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_044",
@@ -2586,13 +2586,13 @@
       "flower_color": "花淡红色，重瓣",
       "fruit_color": "核果，近球形",
       "image_urls": [
-        "https://picsum.photos/seed/紫叶桃/800/600"
+        "/images/plants/紫叶桃.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/紫叶桃/800/600",
+      "primary_image": "/images/plants/紫叶桃.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_050",
@@ -2633,13 +2633,13 @@
       "flower_color": "花淡粉红色",
       "fruit_color": "核果，球形",
       "image_urls": [
-        "https://picsum.photos/seed/紫叶矮樱/800/600"
+        "/images/plants/紫叶矮樱.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/紫叶矮樱/800/600",
+      "primary_image": "/images/plants/紫叶矮樱.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_039",
@@ -2684,13 +2684,13 @@
       "flower_color": "花紫色或紫红色",
       "fruit_color": "聚合果，圆柱形",
       "image_urls": [
-        "https://picsum.photos/seed/紫玉兰/800/600"
+        "/images/plants/紫玉兰.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/紫玉兰/800/600",
+      "primary_image": "/images/plants/紫玉兰.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_027",
@@ -2737,13 +2737,13 @@
       "flower_color": "花紫色或白色，有香气",
       "fruit_color": "荚果，倒披针形",
       "image_urls": [
-        "https://picsum.photos/seed/紫藤/800/600"
+        "/images/plants/紫藤.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/紫藤/800/600",
+      "primary_image": "/images/plants/紫藤.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_062",
@@ -2784,13 +2784,13 @@
       "flower_color": "花鲜红色",
       "fruit_color": "蒴果，圆柱形",
       "image_urls": [
-        "https://picsum.photos/seed/红王子锦带花/800/600"
+        "/images/plants/红王子锦带花.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/红王子锦带花/800/600",
+      "primary_image": "/images/plants/红王子锦带花.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_069",
@@ -2834,13 +2834,13 @@
       "flower_color": "花白色",
       "fruit_color": "核果，椭圆形",
       "image_urls": [
-        "https://picsum.photos/seed/绣球荚蒾/800/600"
+        "/images/plants/绣球荚蒾.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/绣球荚蒾/800/600",
+      "primary_image": "/images/plants/绣球荚蒾.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_021",
@@ -2885,13 +2885,13 @@
       "flower_color": "花序黄绿色",
       "fruit_color": "蒴果2瓣裂",
       "image_urls": [
-        "https://picsum.photos/seed/绦柳/800/600"
+        "/images/plants/绦柳.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/绦柳/800/600",
+      "primary_image": "/images/plants/绦柳.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_051",
@@ -2932,13 +2932,13 @@
       "flower_color": "花粉红色，重瓣",
       "fruit_color": "核果，球形",
       "image_urls": [
-        "https://picsum.photos/seed/美人梅/800/600"
+        "/images/plants/美人梅.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/美人梅/800/600",
+      "primary_image": "/images/plants/美人梅.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_026",
@@ -2981,13 +2981,13 @@
       "flower_color": "花冠漏斗状，橙红色",
       "fruit_color": "蒴果，长圆柱形",
       "image_urls": [
-        "https://picsum.photos/seed/美国凌霄/800/600"
+        "/images/plants/美国凌霄.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/美国凌霄/800/600",
+      "primary_image": "/images/plants/美国凌霄.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_011",
@@ -3034,13 +3034,13 @@
       "flower_color": "圆锥花序，花淡绿色",
       "fruit_color": "翅果，长椭圆形",
       "image_urls": [
-        "https://picsum.photos/seed/臭椿/800/600"
+        "/images/plants/臭椿.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/臭椿/800/600",
+      "primary_image": "/images/plants/臭椿.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_030",
@@ -3085,13 +3085,13 @@
       "flower_color": "花黄色，先叶开放",
       "fruit_color": "浆果，椭圆形",
       "image_urls": [
-        "https://picsum.photos/seed/迎春花/800/600"
+        "/images/plants/迎春花.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/迎春花/800/600",
+      "primary_image": "/images/plants/迎春花.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_031",
@@ -3138,13 +3138,13 @@
       "flower_color": "花黄色，先叶开放",
       "fruit_color": "蒴果，卵球形",
       "image_urls": [
-        "https://picsum.photos/seed/连翘/800/600"
+        "/images/plants/连翘.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/连翘/800/600",
+      "primary_image": "/images/plants/连翘.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_060",
@@ -3189,13 +3189,13 @@
       "flower_color": "花初开白色后转黄色",
       "fruit_color": "浆果，球形，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/金银木/800/600"
+        "/images/plants/金银木.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/金银木/800/600",
+      "primary_image": "/images/plants/金银木.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_029",
@@ -3243,13 +3243,13 @@
       "flower_color": "花初开白色，后转黄色，有香气",
       "fruit_color": "浆果，球形，蓝黑色",
       "image_urls": [
-        "https://picsum.photos/seed/金银花/800/600"
+        "/images/plants/金银花.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/金银花/800/600",
+      "primary_image": "/images/plants/金银花.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_024",
@@ -3295,13 +3295,13 @@
       "flower_color": "雄花序黄绿色",
       "fruit_color": "蒴果2瓣裂",
       "image_urls": [
-        "https://picsum.photos/seed/钻天杨/800/600"
+        "/images/plants/钻天杨.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/钻天杨/800/600",
+      "primary_image": "/images/plants/钻天杨.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "cvbg_star_004",
@@ -3351,13 +3351,13 @@
       "flower_color": "雄球花淡黄色，雌球花淡绿色",
       "fruit_color": "种子成熟时黄色或橙黄色，外被白粉",
       "image_urls": [
-        "https://picsum.photos/seed/银杏/800/600"
+        "/images/plants/银杏.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/银杏/800/600",
+      "primary_image": "/images/plants/银杏.jpg",
       "source_url": "https://www.cvbg.cn",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_061",
@@ -3401,13 +3401,13 @@
       "flower_color": "花粉红色或玫瑰红色",
       "fruit_color": "蒴果，圆柱形",
       "image_urls": [
-        "https://picsum.photos/seed/锦带花/800/600"
+        "/images/plants/锦带花.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/锦带花/800/600",
+      "primary_image": "/images/plants/锦带花.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_066",
@@ -3450,13 +3450,13 @@
       "flower_color": "花淡粉色",
       "fruit_color": "浆果，球形，白色",
       "image_urls": [
-        "https://picsum.photos/seed/雪果/800/600"
+        "/images/plants/雪果.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/雪果/800/600",
+      "primary_image": "/images/plants/雪果.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_015",
@@ -3503,13 +3503,13 @@
       "flower_color": "花白色",
       "fruit_color": "翅果，扁平",
       "image_urls": [
-        "https://picsum.photos/seed/雪柳/800/600"
+        "/images/plants/雪柳.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/雪柳/800/600",
+      "primary_image": "/images/plants/雪柳.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_068",
@@ -3554,13 +3554,13 @@
       "flower_color": "花白色",
       "fruit_color": "核果，近球形，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/鸡树条荚蒾/800/600"
+        "/images/plants/鸡树条荚蒾.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/鸡树条荚蒾/800/600",
+      "primary_image": "/images/plants/鸡树条荚蒾.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_056",
@@ -3602,13 +3602,13 @@
       "flower_color": "花白色",
       "fruit_color": "核果，椭圆形，熟时黑色",
       "image_urls": [
-        "https://picsum.photos/seed/鸡麻/800/600"
+        "/images/plants/鸡麻.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/鸡麻/800/600",
+      "primary_image": "/images/plants/鸡麻.jpg",
       "source_url": "beijing_botanical_garden_database",
       "collected_at": "2026-05-10 10:59:50",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_071",
@@ -3655,13 +3655,13 @@
       "flower_color": "圆锥花序，花白色，有香气",
       "fruit_color": "蒴果，长椭圆形",
       "image_urls": [
-        "https://picsum.photos/seed/香椿/800/600"
+        "/images/plants/香椿.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/香椿/800/600",
+      "primary_image": "/images/plants/香椿.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_072",
@@ -3709,13 +3709,13 @@
       "flower_color": "圆锥花序，花淡紫色",
       "fruit_color": "核果，球形，熟时黄色",
       "image_urls": [
-        "https://picsum.photos/seed/苦楝/800/600"
+        "/images/plants/苦楝.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/苦楝/800/600",
+      "primary_image": "/images/plants/苦楝.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_073",
@@ -3760,13 +3760,13 @@
       "flower_color": "圆锥花序，花黄绿色",
       "fruit_color": "核果，肾形，红色",
       "image_urls": [
-        "https://picsum.photos/seed/黄栌/800/600"
+        "/images/plants/黄栌.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/黄栌/800/600",
+      "primary_image": "/images/plants/黄栌.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_074",
@@ -3813,13 +3813,13 @@
       "flower_color": "圆锥花序，花黄色",
       "fruit_color": "蒴果，三角状卵形，熟时红褐色",
       "image_urls": [
-        "https://picsum.photos/seed/栾树/800/600"
+        "/images/plants/栾树.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/栾树/800/600",
+      "primary_image": "/images/plants/栾树.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_075",
@@ -3864,13 +3864,13 @@
       "flower_color": "圆锥花序，花白色",
       "fruit_color": "蒴果，球形，熟时黄褐色",
       "image_urls": [
-        "https://picsum.photos/seed/七叶树/800/600"
+        "/images/plants/七叶树.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/七叶树/800/600",
+      "primary_image": "/images/plants/七叶树.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_076",
@@ -3915,13 +3915,13 @@
       "flower_color": "伞房状聚伞花序，花白色或淡红色",
       "fruit_color": "核果，近球形，熟时蓝黑色",
       "image_urls": [
-        "https://picsum.photos/seed/海州常山/800/600"
+        "/images/plants/海州常山.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/海州常山/800/600",
+      "primary_image": "/images/plants/海州常山.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_077",
@@ -3968,13 +3968,13 @@
       "flower_color": "花淡紫色",
       "fruit_color": "浆果，椭圆形，熟时红色",
       "image_urls": [
-        "https://picsum.photos/seed/枸杞/800/600"
+        "/images/plants/枸杞.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/枸杞/800/600",
+      "primary_image": "/images/plants/枸杞.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_078",
@@ -4021,13 +4021,13 @@
       "flower_color": "圆锥花序，花淡黄色",
       "fruit_color": "蒴果，线形，下垂",
       "image_urls": [
-        "https://picsum.photos/seed/梓树/800/600"
+        "/images/plants/梓树.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/梓树/800/600",
+      "primary_image": "/images/plants/梓树.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_079",
@@ -4073,13 +4073,13 @@
       "flower_color": "花大，花色丰富",
       "fruit_color": "蓇葖果，长圆形",
       "image_urls": [
-        "https://picsum.photos/seed/牡丹/800/600"
+        "/images/plants/牡丹.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/牡丹/800/600",
+      "primary_image": "/images/plants/牡丹.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_080",
@@ -4125,13 +4125,13 @@
       "flower_color": "花大，花色丰富",
       "fruit_color": "蓇葖果，卵形",
       "image_urls": [
-        "https://picsum.photos/seed/芍药/800/600"
+        "/images/plants/芍药.jpg"
       ],
-      "primary_image": "https://picsum.photos/seed/芍药/800/600",
+      "primary_image": "/images/plants/芍药.jpg",
       "source_url": "beijing_botanical_garden_extended_database",
       "collected_at": "2026-05-10 12:04:42",
       "notes": "",
-      "image_source": "picsum.photos"
+      "image_source": "PPBC中国植物图像库"
     },
     {
       "id": "plant_201",
@@ -6362,10 +6362,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/华山松/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/华山松.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/华山松/800/600"
+        "/images/plants/华山松.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6412,10 +6412,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/池杉/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/池杉.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/池杉/800/600"
+        "/images/plants/池杉.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6462,10 +6462,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/落羽杉/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/落羽杉.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/落羽杉/800/600"
+        "/images/plants/落羽杉.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6512,10 +6512,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/日本五针松/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/日本五针松.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/日本五针松/800/600"
+        "/images/plants/日本五针松.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6562,10 +6562,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/黑松/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/黑松.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/黑松/800/600"
+        "/images/plants/黑松.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6612,10 +6612,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/赤松/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/赤松.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/赤松/800/600"
+        "/images/plants/赤松.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6662,10 +6662,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/南洋杉/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/南洋杉.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/南洋杉/800/600"
+        "/images/plants/南洋杉.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6712,10 +6712,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/龙柏/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/龙柏.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/龙柏/800/600"
+        "/images/plants/龙柏.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6762,10 +6762,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/桧柏/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/桧柏.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/桧柏/800/600"
+        "/images/plants/桧柏.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6812,10 +6812,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/青扦/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/青扦.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/青扦/800/600"
+        "/images/plants/青扦.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6863,10 +6863,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/白扦/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/白扦.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/白扦/800/600"
+        "/images/plants/白扦.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6913,10 +6913,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/红豆杉/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/红豆杉.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/红豆杉/800/600"
+        "/images/plants/红豆杉.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -6963,10 +6963,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/罗汉松/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/罗汉松.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/罗汉松/800/600"
+        "/images/plants/罗汉松.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7013,10 +7013,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/三尖杉/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/三尖杉.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/三尖杉/800/600"
+        "/images/plants/三尖杉.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7063,10 +7063,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/旱柳/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/旱柳.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/旱柳/800/600"
+        "/images/plants/旱柳.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7113,10 +7113,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/垂柳/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/垂柳.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/垂柳/800/600"
+        "/images/plants/垂柳.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7163,10 +7163,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/龙爪槐/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/龙爪槐.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/龙爪槐/800/600"
+        "/images/plants/龙爪槐.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7213,10 +7213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/红花槐/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/红花槐.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/红花槐/800/600"
+        "/images/plants/红花槐.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7263,10 +7263,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/五角枫/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/五角枫.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/五角枫/800/600"
+        "/images/plants/五角枫.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7313,10 +7313,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/鸡爪槭/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/鸡爪槭.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/鸡爪槭/800/600"
+        "/images/plants/鸡爪槭.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7363,10 +7363,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/红枫/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/红枫.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/红枫/800/600"
+        "/images/plants/红枫.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7413,10 +7413,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/三角枫/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/三角枫.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/三角枫/800/600"
+        "/images/plants/三角枫.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7463,10 +7463,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/千头椿/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/千头椿.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/千头椿/800/600"
+        "/images/plants/千头椿.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7513,10 +7513,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/绒毛白蜡/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/绒毛白蜡.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/绒毛白蜡/800/600"
+        "/images/plants/绒毛白蜡.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7563,10 +7563,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/洋白蜡/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/洋白蜡.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/洋白蜡/800/600"
+        "/images/plants/洋白蜡.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7613,10 +7613,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/白榆/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/白榆.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/白榆/800/600"
+        "/images/plants/白榆.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7663,10 +7663,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/金叶榆/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/金叶榆.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/金叶榆/800/600"
+        "/images/plants/金叶榆.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7713,10 +7713,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/垂枝榆/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/垂枝榆.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/垂枝榆/800/600"
+        "/images/plants/垂枝榆.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7763,10 +7763,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/构树/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/构树.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/构树/800/600"
+        "/images/plants/构树.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7813,10 +7813,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/桑树/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/桑树.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/桑树/800/600"
+        "/images/plants/桑树.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7913,10 +7913,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/重瓣榆叶梅/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/重瓣榆叶梅.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/重瓣榆叶梅/800/600"
+        "/images/plants/重瓣榆叶梅.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -7963,10 +7963,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/麦李/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/麦李.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/麦李/800/600"
+        "/images/plants/麦李.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8013,10 +8013,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/郁李/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/郁李.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/郁李/800/600"
+        "/images/plants/郁李.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8063,10 +8063,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/稠李/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/稠李.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/稠李/800/600"
+        "/images/plants/稠李.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8113,10 +8113,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/紫叶稠李/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/紫叶稠李.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/紫叶稠李/800/600"
+        "/images/plants/紫叶稠李.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8163,10 +8163,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/杜梨/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/杜梨.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/杜梨/800/600"
+        "/images/plants/杜梨.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8213,10 +8213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/豆梨/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/豆梨.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/豆梨/800/600"
+        "/images/plants/豆梨.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8263,10 +8263,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/水栒子/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/水栒子.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/水栒子/800/600"
+        "/images/plants/水栒子.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8313,10 +8313,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/平枝栒子/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/平枝栒子.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/平枝栒子/800/600"
+        "/images/plants/平枝栒子.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8363,10 +8363,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/火棘/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/火棘.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/火棘/800/600"
+        "/images/plants/火棘.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8463,10 +8463,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/金山绣线菊/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/金山绣线菊.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/金山绣线菊/800/600"
+        "/images/plants/金山绣线菊.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8513,10 +8513,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/金焰绣线菊/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/金焰绣线菊.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/金焰绣线菊/800/600"
+        "/images/plants/金焰绣线菊.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8563,10 +8563,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/麻叶绣线菊/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/麻叶绣线菊.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/麻叶绣线菊/800/600"
+        "/images/plants/麻叶绣线菊.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8613,10 +8613,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/三桠绣线菊/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/三桠绣线菊.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/三桠绣线菊/800/600"
+        "/images/plants/三桠绣线菊.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8663,10 +8663,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/笑靥花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/笑靥花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/笑靥花/800/600"
+        "/images/plants/笑靥花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8713,10 +8713,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/菱叶绣线菊/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/菱叶绣线菊.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/菱叶绣线菊/800/600"
+        "/images/plants/菱叶绣线菊.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8763,10 +8763,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/粉花绣线菊/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/粉花绣线菊.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/粉花绣线菊/800/600"
+        "/images/plants/粉花绣线菊.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8813,10 +8813,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/金叶接骨木/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/金叶接骨木.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/金叶接骨木/800/600"
+        "/images/plants/金叶接骨木.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8913,10 +8913,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/绣球花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/绣球花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/绣球花/800/600"
+        "/images/plants/绣球花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -8963,10 +8963,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/圆锥绣球/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/圆锥绣球.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/圆锥绣球/800/600"
+        "/images/plants/圆锥绣球.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9013,10 +9013,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/太平花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/太平花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/太平花/800/600"
+        "/images/plants/太平花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9063,10 +9063,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/东北山梅花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/东北山梅花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/东北山梅花/800/600"
+        "/images/plants/东北山梅花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9113,10 +9113,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/溲疏/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/溲疏.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/溲疏/800/600"
+        "/images/plants/溲疏.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9163,10 +9163,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/大花溲疏/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/大花溲疏.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/大花溲疏/800/600"
+        "/images/plants/大花溲疏.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9213,10 +9213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/小花溲疏/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/小花溲疏.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/小花溲疏/800/600"
+        "/images/plants/小花溲疏.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9263,10 +9263,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/矮紫薇/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/矮紫薇.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/矮紫薇/800/600"
+        "/images/plants/矮紫薇.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9363,10 +9363,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/月季石榴/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/月季石榴.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/月季石榴/800/600"
+        "/images/plants/月季石榴.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9413,10 +9413,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/花椒/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/花椒.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/花椒/800/600"
+        "/images/plants/花椒.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9463,10 +9463,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/竹叶椒/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/竹叶椒.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/竹叶椒/800/600"
+        "/images/plants/竹叶椒.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9513,10 +9513,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/枸橘/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/枸橘.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/枸橘/800/600"
+        "/images/plants/枸橘.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9563,10 +9563,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/苦木/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/苦木.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/苦木/800/600"
+        "/images/plants/苦木.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9613,10 +9613,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/黄金树/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/黄金树.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/黄金树/800/600"
+        "/images/plants/黄金树.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9663,10 +9663,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/泡桐/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/泡桐.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/泡桐/800/600"
+        "/images/plants/泡桐.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9713,10 +9713,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/兰考泡桐/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/兰考泡桐.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/兰考泡桐/800/600"
+        "/images/plants/兰考泡桐.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9763,10 +9763,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/毛泡桐/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/毛泡桐.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/毛泡桐/800/600"
+        "/images/plants/毛泡桐.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9813,10 +9813,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/苏铁/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/苏铁.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/苏铁/800/600"
+        "/images/plants/苏铁.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9863,10 +9863,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/华南苏铁/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/华南苏铁.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/华南苏铁/800/600"
+        "/images/plants/华南苏铁.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9913,10 +9913,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/橡皮树/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/橡皮树.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/橡皮树/800/600"
+        "/images/plants/橡皮树.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -9963,10 +9963,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/琴叶榕/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/琴叶榕.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/琴叶榕/800/600"
+        "/images/plants/琴叶榕.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10013,10 +10013,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/龟背竹/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/龟背竹.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/龟背竹/800/600"
+        "/images/plants/龟背竹.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10063,10 +10063,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/绿萝/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/绿萝.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/绿萝/800/600"
+        "/images/plants/绿萝.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10113,10 +10113,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/春羽/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/春羽.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/春羽/800/600"
+        "/images/plants/春羽.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10163,10 +10163,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/红掌/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/红掌.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/红掌/800/600"
+        "/images/plants/红掌.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10213,10 +10213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/白掌/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/白掌.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/白掌/800/600"
+        "/images/plants/白掌.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10263,10 +10263,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/万年青/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/万年青.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/万年青/800/600"
+        "/images/plants/万年青.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10313,10 +10313,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/广东万年青/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/广东万年青.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/广东万年青/800/600"
+        "/images/plants/广东万年青.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10363,10 +10363,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/富贵竹/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/富贵竹.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/富贵竹/800/600"
+        "/images/plants/富贵竹.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10413,10 +10413,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/巴西木/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/巴西木.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/巴西木/800/600"
+        "/images/plants/巴西木.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10463,10 +10463,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/也门铁/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/也门铁.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/也门铁/800/600"
+        "/images/plants/也门铁.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10513,10 +10513,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/散尾葵/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/散尾葵.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/散尾葵/800/600"
+        "/images/plants/散尾葵.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10563,10 +10563,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/袖珍椰子/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/袖珍椰子.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/袖珍椰子/800/600"
+        "/images/plants/袖珍椰子.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10613,10 +10613,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/夏威夷椰子/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/夏威夷椰子.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/夏威夷椰子/800/600"
+        "/images/plants/夏威夷椰子.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10663,10 +10663,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/蒲葵/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/蒲葵.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/蒲葵/800/600"
+        "/images/plants/蒲葵.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10713,10 +10713,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/棕榈/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/棕榈.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/棕榈/800/600"
+        "/images/plants/棕榈.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10763,10 +10763,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/鱼尾葵/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/鱼尾葵.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/鱼尾葵/800/600"
+        "/images/plants/鱼尾葵.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10813,10 +10813,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/短穗鱼尾葵/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/短穗鱼尾葵.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/短穗鱼尾葵/800/600"
+        "/images/plants/短穗鱼尾葵.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10863,10 +10863,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/王棕/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/王棕.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/王棕/800/600"
+        "/images/plants/王棕.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10913,10 +10913,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/假槟榔/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/假槟榔.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/假槟榔/800/600"
+        "/images/plants/假槟榔.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -10963,10 +10963,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/国王椰子/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/国王椰子.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/国王椰子/800/600"
+        "/images/plants/国王椰子.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11013,10 +11013,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/酒瓶椰子/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/酒瓶椰子.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/酒瓶椰子/800/600"
+        "/images/plants/酒瓶椰子.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11113,10 +11113,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/霸王棕/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/霸王棕.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/霸王棕/800/600"
+        "/images/plants/霸王棕.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11163,10 +11163,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/油棕/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/油棕.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/油棕/800/600"
+        "/images/plants/油棕.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11213,10 +11213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/椰子/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/椰子.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/椰子/800/600"
+        "/images/plants/椰子.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11263,10 +11263,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/槟榔/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/槟榔.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/槟榔/800/600"
+        "/images/plants/槟榔.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11313,10 +11313,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/省藤/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/省藤.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/省藤/800/600"
+        "/images/plants/省藤.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11363,10 +11363,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/红刺露兜树/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/红刺露兜树.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/红刺露兜树/800/600"
+        "/images/plants/红刺露兜树.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11413,10 +11413,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/露兜树/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/露兜树.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/露兜树/800/600"
+        "/images/plants/露兜树.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11463,10 +11463,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/芭蕉/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/芭蕉.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/芭蕉/800/600"
+        "/images/plants/芭蕉.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11513,10 +11513,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/香蕉/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/香蕉.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/香蕉/800/600"
+        "/images/plants/香蕉.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11563,10 +11563,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/鹤望兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/鹤望兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/鹤望兰/800/600"
+        "/images/plants/鹤望兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11613,10 +11613,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/旅人蕉/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/旅人蕉.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/旅人蕉/800/600"
+        "/images/plants/旅人蕉.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11663,10 +11663,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/虎尾兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/虎尾兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/虎尾兰/800/600"
+        "/images/plants/虎尾兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11713,10 +11713,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/金边虎尾兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/金边虎尾兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/金边虎尾兰/800/600"
+        "/images/plants/金边虎尾兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11763,10 +11763,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/龙舌兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/龙舌兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/龙舌兰/800/600"
+        "/images/plants/龙舌兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11813,10 +11813,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/金边龙舌兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/金边龙舌兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/金边龙舌兰/800/600"
+        "/images/plants/金边龙舌兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11863,10 +11863,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/凤尾兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/凤尾兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/凤尾兰/800/600"
+        "/images/plants/凤尾兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11913,10 +11913,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/丝兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/丝兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/丝兰/800/600"
+        "/images/plants/丝兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -11963,10 +11963,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/仙人掌/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/仙人掌.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/仙人掌/800/600"
+        "/images/plants/仙人掌.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12013,10 +12013,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/金琥/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/金琥.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/金琥/800/600"
+        "/images/plants/金琥.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12063,10 +12063,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/蟹爪兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/蟹爪兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/蟹爪兰/800/600"
+        "/images/plants/蟹爪兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12113,10 +12113,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/仙人球/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/仙人球.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/仙人球/800/600"
+        "/images/plants/仙人球.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12163,10 +12163,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/昙花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/昙花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/昙花/800/600"
+        "/images/plants/昙花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12213,10 +12213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/令箭荷花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/令箭荷花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/令箭荷花/800/600"
+        "/images/plants/令箭荷花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12263,10 +12263,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/量天尺/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/量天尺.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/量天尺/800/600"
+        "/images/plants/量天尺.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12313,10 +12313,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/芦荟/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/芦荟.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/芦荟/800/600"
+        "/images/plants/芦荟.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12363,10 +12363,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/不夜城芦荟/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/不夜城芦荟.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/不夜城芦荟/800/600"
+        "/images/plants/不夜城芦荟.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12413,10 +12413,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/十二卷/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/十二卷.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/十二卷/800/600"
+        "/images/plants/十二卷.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12463,10 +12463,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/玉露/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/玉露.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/玉露/800/600"
+        "/images/plants/玉露.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12513,10 +12513,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/石莲花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/石莲花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/石莲花/800/600"
+        "/images/plants/石莲花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12563,10 +12563,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/黑王子/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/黑王子.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/黑王子/800/600"
+        "/images/plants/黑王子.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12613,10 +12613,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/姬胧月/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/姬胧月.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/姬胧月/800/600"
+        "/images/plants/姬胧月.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12663,10 +12663,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/景天/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/景天.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/景天/800/600"
+        "/images/plants/景天.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12713,10 +12713,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/垂盆草/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/垂盆草.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/垂盆草/800/600"
+        "/images/plants/垂盆草.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12763,10 +12763,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/佛甲草/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/佛甲草.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/佛甲草/800/600"
+        "/images/plants/佛甲草.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12813,10 +12813,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/长寿花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/长寿花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/长寿花/800/600"
+        "/images/plants/长寿花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12863,10 +12863,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/落地生根/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/落地生根.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/落地生根/800/600"
+        "/images/plants/落地生根.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12913,10 +12913,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/玉树/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/玉树.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/玉树/800/600"
+        "/images/plants/玉树.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -12963,10 +12963,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/碰碰香/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/碰碰香.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/碰碰香/800/600"
+        "/images/plants/碰碰香.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13013,10 +13013,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/迷迭香/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/迷迭香.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/迷迭香/800/600"
+        "/images/plants/迷迭香.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13063,10 +13063,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/薰衣草/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/薰衣草.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/薰衣草/800/600"
+        "/images/plants/薰衣草.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13113,10 +13113,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/薄荷/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/薄荷.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/薄荷/800/600"
+        "/images/plants/薄荷.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13163,10 +13163,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/留兰香/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/留兰香.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/留兰香/800/600"
+        "/images/plants/留兰香.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13213,10 +13213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/罗勒/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/罗勒.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/罗勒/800/600"
+        "/images/plants/罗勒.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13263,10 +13263,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/紫苏/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/紫苏.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/紫苏/800/600"
+        "/images/plants/紫苏.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13313,10 +13313,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/藿香/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/藿香.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/藿香/800/600"
+        "/images/plants/藿香.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13363,10 +13363,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/黄芩/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/黄芩.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/黄芩/800/600"
+        "/images/plants/黄芩.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13413,10 +13413,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/丹参/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/丹参.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/丹参/800/600"
+        "/images/plants/丹参.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13463,10 +13463,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/益母草/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/益母草.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/益母草/800/600"
+        "/images/plants/益母草.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13513,10 +13513,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/荆芥/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/荆芥.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/荆芥/800/600"
+        "/images/plants/荆芥.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13563,10 +13563,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/桔梗/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/桔梗.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/桔梗/800/600"
+        "/images/plants/桔梗.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13613,10 +13613,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/党参/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/党参.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/党参/800/600"
+        "/images/plants/党参.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13663,10 +13663,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/沙参/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/沙参.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/沙参/800/600"
+        "/images/plants/沙参.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13713,10 +13713,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/半边莲/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/半边莲.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/半边莲/800/600"
+        "/images/plants/半边莲.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13763,10 +13763,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/野菊/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/野菊.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/野菊/800/600"
+        "/images/plants/野菊.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13813,10 +13813,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/红花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/红花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/红花/800/600"
+        "/images/plants/红花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13863,10 +13863,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/白术/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/白术.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/白术/800/600"
+        "/images/plants/白术.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13913,10 +13913,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/苍术/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/苍术.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/苍术/800/600"
+        "/images/plants/苍术.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -13963,10 +13963,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/牛蒡/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/牛蒡.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/牛蒡/800/600"
+        "/images/plants/牛蒡.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14013,10 +14013,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/蒲公英/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/蒲公英.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/蒲公英/800/600"
+        "/images/plants/蒲公英.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14063,10 +14063,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/紫菀/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/紫菀.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/紫菀/800/600"
+        "/images/plants/紫菀.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14113,10 +14113,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/款冬/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/款冬.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/款冬/800/600"
+        "/images/plants/款冬.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14163,10 +14163,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/苍耳/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/苍耳.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/苍耳/800/600"
+        "/images/plants/苍耳.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14213,10 +14213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/艾/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/艾.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/艾/800/600"
+        "/images/plants/艾.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14263,10 +14263,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/茵陈/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/茵陈.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/茵陈/800/600"
+        "/images/plants/茵陈.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14313,10 +14313,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/青蒿/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/青蒿.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/青蒿/800/600"
+        "/images/plants/青蒿.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14363,10 +14363,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/佩兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/佩兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/佩兰/800/600"
+        "/images/plants/佩兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14413,10 +14413,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/泽兰/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/泽兰.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/泽兰/800/600"
+        "/images/plants/泽兰.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14463,10 +14463,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/石竹/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/石竹.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/石竹/800/600"
+        "/images/plants/石竹.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14513,10 +14513,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/康乃馨/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/康乃馨.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/康乃馨/800/600"
+        "/images/plants/康乃馨.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14563,10 +14563,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/满天星/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/满天星.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/满天星/800/600"
+        "/images/plants/满天星.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14613,10 +14613,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/剪秋罗/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/剪秋罗.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/剪秋罗/800/600"
+        "/images/plants/剪秋罗.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14663,10 +14663,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/王不留行/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/王不留行.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/王不留行/800/600"
+        "/images/plants/王不留行.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14713,10 +14713,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/金鱼草/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/金鱼草.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/金鱼草/800/600"
+        "/images/plants/金鱼草.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14763,10 +14763,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/蒲包花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/蒲包花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/蒲包花/800/600"
+        "/images/plants/蒲包花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14813,10 +14813,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/夏堇/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/夏堇.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/夏堇/800/600"
+        "/images/plants/夏堇.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14863,10 +14863,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/毛地黄/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/毛地黄.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/毛地黄/800/600"
+        "/images/plants/毛地黄.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14913,10 +14913,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/钓钟柳/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/钓钟柳.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/钓钟柳/800/600"
+        "/images/plants/钓钟柳.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -14963,10 +14963,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/凤仙花/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/凤仙花.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/凤仙花/800/600"
+        "/images/plants/凤仙花.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -15013,10 +15013,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/何氏凤仙/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/何氏凤仙.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/何氏凤仙/800/600"
+        "/images/plants/何氏凤仙.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -15063,10 +15063,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/新几内亚凤仙/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/新几内亚凤仙.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/新几内亚凤仙/800/600"
+        "/images/plants/新几内亚凤仙.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -15113,10 +15113,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/三色堇/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/三色堇.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/三色堇/800/600"
+        "/images/plants/三色堇.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -15163,10 +15163,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/角堇/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/角堇.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/角堇/800/600"
+        "/images/plants/角堇.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
@@ -15213,10 +15213,10 @@
       "flower_color": "",
       "fruit_color": "",
       "ppbc_id": "",
-      "image_source": "picsum.photos",
-      "primary_image": "https://picsum.photos/seed/紫花地丁/800/600",
+      "image_source": "PPBC中国植物图像库",
+      "primary_image": "/images/plants/紫花地丁.jpg",
       "image_urls": [
-        "https://picsum.photos/seed/紫花地丁/800/600"
+        "/images/plants/紫花地丁.jpg"
       ],
       "collected_at": "2026-05-10 12:31:22",
       "source_url": "beijing_botanical_garden_database",
