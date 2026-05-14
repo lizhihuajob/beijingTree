@@ -40,7 +40,7 @@ export const ProfilePage = () => {
       await adminApi.changePassword(oldPassword, newPassword);
       alert('密码修改成功，请重新登录');
       adminApi.logout();
-      window.location.href = '/admin/login';
+      window.location.href = '/login';
     } catch (err) {
       alert(err.message);
     } finally {

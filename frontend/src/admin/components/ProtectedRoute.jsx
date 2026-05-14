@@ -5,7 +5,7 @@ export const ProtectedRoute = ({ children }) => {
   const token = adminApi.token;
 
   if (!token) {
-    return <Navigate to="/admin/login" replace />;
+    return <Navigate to="/login" replace />;
   }
 
   return children;

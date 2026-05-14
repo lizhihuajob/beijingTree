@@ -9,14 +9,14 @@ export const Layout = ({ children }) => {
 
   const handleLogout = () => {
     adminApi.logout();
-    navigate('/admin/login');
+    navigate('/login');
   };
 
   const menuItems = [
-    { path: '/admin/dashboard', label: '仪表盘', icon: '📊' },
-    { path: '/admin/plants', label: '植物管理', icon: '🌿' },
-    { path: '/admin/spider', label: '爬虫配置', icon: '🔧' },
-    { path: '/admin/profile', label: '个人中心', icon: '👤' },
+    { path: '/dashboard', label: '仪表盘', icon: '📊' },
+    { path: '/plants', label: '植物管理', icon: '🌿' },
+    { path: '/spider', label: '爬虫配置', icon: '🔧' },
+    { path: '/profile', label: '个人中心', icon: '👤' },
   ];
 
   return (

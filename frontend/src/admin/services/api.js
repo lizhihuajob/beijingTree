@@ -36,7 +36,7 @@ class AdminApi {
     if (!response.ok) {
       if (response.status === 401) {
         this.setToken(null);
-        window.location.href = '/admin/login';
+        window.location.href = '/login';
       }
       throw new Error(data.error || 'Request failed');
     }
