@@ -40,6 +40,8 @@ services:
   frontend:
     build:
       context: ./frontend
+      args:
+        - VITE_API_URL=/api
     depends_on:
       backend:
         condition: service_healthy
