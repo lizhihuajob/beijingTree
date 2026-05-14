@@ -1,8 +1,22 @@
 from flask import Blueprint, jsonify, request
 from app import db
-from app.models import Plant
+from app.models import Plant, VisitLog
 
 api_bp = Blueprint('api', __name__)
+
+@api_bp.before_request
+def log_visit():
+    try:
+        visit = VisitLog(
+            ip_address=request.remote_addr,
+            user_agent=request.user_agent.string,
+            path=request.path,
+            method=request.method
+        )
+        db.session.add(visit)
+        db.session.commit()
+    except:
+        pass
 
 @api_bp.route('/plants', methods=['GET'])
 def get_plants():
