@@ -9,12 +9,12 @@ from app.models import Plant
 
 def find_data_file():
     possible_paths = [
-        os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'data', 'plants_with_real_images.json'),
-        os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'data', 'plants.json'),
         os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'frontend', 'src', 'data', 'plants.json'),
-        '/app/data/plants_with_real_images.json',
-        '/app/data/plants.json',
         '/app/frontend_data/plants.json',
+        os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'data', 'plants.json'),
+        '/app/data/plants.json',
+        os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'data', 'plants_with_real_images.json'),
+        '/app/data/plants_with_real_images.json',
         'plants.json'
     ]
     
