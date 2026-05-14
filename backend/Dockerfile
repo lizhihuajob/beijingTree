@@ -11,4 +11,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["sh", "-c", "python scripts/init_db.py && python run.py"]
+CMD ["sh", "-c", "sleep 5 && python scripts/init_db.py && python run.py"]
