@@ -36,7 +36,7 @@ def find_data_file():
         pass
     return None
 
-def init_database():
+def init_database(force_update=False):
     print("开始初始化数据库...")
     app = create_app()
     print(f"数据库URI: {app.config.get('SQLALCHEMY_DATABASE_URI')}")
@@ -50,9 +50,15 @@ def init_database():
                 db.create_all()
                 print("数据库表创建完成")
                 
-                if Plant.query.first() is not None:
-                    print("数据库已存在数据，跳过初始化")
+                existing_count = Plant.query.count()
+                if existing_count > 0 and not force_update:
+                    print(f"数据库已存在 {existing_count} 条数据，跳过初始化")
                     return
+                
+                if force_update and existing_count > 0:
+                    print(f"强制更新模式，删除 {existing_count} 条旧数据...")
+                    Plant.query.delete()
+                    db.session.commit()
                 
                 json_path = find_data_file()
                 if not json_path:
@@ -116,6 +122,12 @@ def init_database():
                     
                     db.session.commit()
                     print(f"成功初始化数据库，导入 {len(plants_data)} 条植物数据")
+                    
+                    # 打印前3条植物的图片路径用于验证
+                    sample_plants = Plant.query.limit(3).all()
+                    print("\n验证图片路径:")
+                    for p in sample_plants:
+                        print(f"  {p.name_cn}: {p.primary_image}")
                     return
                 except Exception as e:
                     print(f"初始化数据库时发生错误: {str(e)}")
@@ -133,4 +145,5 @@ def init_database():
                 raise
 
 if __name__ == '__main__':
-    init_database()
+    force_update = len(sys.argv) > 1 and sys.argv[1] in ['--force', '-f']
+    init_database(force_update=force_update)
