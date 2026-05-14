@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import PlantCard from '../components/PlantCard'
 import {
@@ -14,9 +14,26 @@ function PlantListPage() {
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedFamily, setSelectedFamily] = useState('')
   const [selectedZone, setSelectedZone] = useState('')
+  const [filteredPlants, setFilteredPlants] = useState([])
+  const [families, setFamilies] = useState([])
+  const [zones, setZones] = useState([])
+  const [loading, setLoading] = useState(true)
 
-  const families = getAllFamilies()
-  const zones = getAllGardenZones()
+  useEffect(() => {
+    const loadFilters = async () => {
+      try {
+        const [familiesData, zonesData] = await Promise.all([
+          getAllFamilies(),
+          getAllGardenZones()
+        ])
+        setFamilies(familiesData)
+        setZones(zonesData)
+      } catch (error) {
+        console.error('Failed to load filters:', error)
+      }
+    }
+    loadFilters()
+  }, [])
 
   useEffect(() => {
     const familyParam = searchParams.get('family')
@@ -30,22 +47,30 @@ function PlantListPage() {
     }
   }, [searchParams])
 
-  const filteredPlants = useMemo(() => {
-    let plants = []
+  useEffect(() => {
+    const loadPlants = async () => {
+      setLoading(true)
+      try {
+        let plants = []
 
-    if (selectedFamily) {
-      plants = getPlantsByFamily(selectedFamily)
-    } else if (selectedZone) {
-      plants = getPlantsByGardenZone(selectedZone)
-    } else {
-      plants = searchPlants(searchTerm)
+        if (selectedFamily) {
+          plants = await getPlantsByFamily(selectedFamily)
+        } else if (selectedZone) {
+          plants = await getPlantsByGardenZone(selectedZone)
+        } else if (searchTerm) {
+          plants = await searchPlants(searchTerm)
+        } else {
+          plants = await searchPlants('')
+        }
+
+        setFilteredPlants(plants)
+      } catch (error) {
+        console.error('Failed to load plants:', error)
+      } finally {
+        setLoading(false)
+      }
     }
-
-    if (searchTerm && !selectedFamily && !selectedZone) {
-      plants = searchPlants(searchTerm)
-    }
-
-    return plants
+    loadPlants()
   }, [searchTerm, selectedFamily, selectedZone])
 
   const handleSearchChange = (e) => {
@@ -84,6 +109,17 @@ function PlantListPage() {
     setSelectedFamily('')
     setSelectedZone('')
     setSearchParams({})
+  }
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-gray-50 py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <div className="text-4xl mb-4">🌿</div>
+          <div className="text-gray-500">加载中...</div>
+        </div>
+      </div>
+    )
   }
 
   return (

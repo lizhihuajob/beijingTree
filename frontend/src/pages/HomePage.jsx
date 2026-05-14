@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import PlantCard from '../components/PlantCard'
 import {
@@ -9,12 +10,49 @@ import {
 } from '../utils/plantUtils'
 
 function HomePage() {
-  const plants = getAllPlants()
-  const stats = getStatistics()
-  const protectedPlants = getProtectedPlants()
+  const [plants, setPlants] = useState([])
+  const [stats, setStats] = useState({ total: 0, families: 0, protected: 0, zones: 0 })
+  const [protectedPlants, setProtectedPlants] = useState([])
+  const [families, setFamilies] = useState([])
+  const [zones, setZones] = useState([])
+  const [loading, setLoading] = useState(true)
+
+  useEffect(() => {
+    const loadData = async () => {
+      try {
+        const [plantsData, statsData, protectedData, familiesData, zonesData] = await Promise.all([
+          getAllPlants(),
+          getStatistics(),
+          getProtectedPlants(),
+          getAllFamilies(),
+          getAllGardenZones()
+        ])
+        setPlants(plantsData)
+        setStats(statsData)
+        setProtectedPlants(protectedData)
+        setFamilies(familiesData)
+        setZones(zonesData)
+      } catch (error) {
+        console.error('Failed to load data:', error)
+      } finally {
+        setLoading(false)
+      }
+    }
+    loadData()
+  }, [])
+
   const featuredPlants = plants.slice(0, 6)
-  const families = getAllFamilies()
-  const zones = getAllGardenZones()
+
+  if (loading) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-center">
+          <div className="text-4xl mb-4">🌿</div>
+          <div className="text-gray-500">加载中...</div>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="min-h-screen">

@@ -1,12 +1,40 @@
+import { useState, useEffect } from 'react'
 import { Link, useParams, useNavigate } from 'react-router-dom'
 import { getPlantById, formatProtectionStatus } from '../utils/plantUtils'
 
 function PlantDetailPage() {
   const { id } = useParams()
   const navigate = useNavigate()
-  const plant = getPlantById(id)
+  const [plant, setPlant] = useState(null)
+  const [loading, setLoading] = useState(true)
 
-  if (!plant) {
+  useEffect(() => {
+    const loadPlant = async () => {
+      setLoading(true)
+      try {
+        const data = await getPlantById(id)
+        setPlant(data)
+      } catch (error) {
+        console.error('Failed to load plant:', error)
+      } finally {
+        setLoading(false)
+      }
+    }
+    loadPlant()
+  }, [id])
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-gray-50 py-16">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <div className="text-6xl mb-4">🌿</div>
+          <div className="text-gray-500">加载中...</div>
+        </div>
+      </div>
+    )
+  }
+
+  if (!plant || plant.error) {
     return (
       <div className="min-h-screen bg-gray-50 py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
