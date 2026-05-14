@@ -3,8 +3,7 @@ from datetime import datetime, timedelta
 import jwt
 import os
 from functools import wraps
-from admin_app import db
-from app.models import Plant, Admin, SpiderConfig, VisitLog
+from app.models import db, Plant, Admin, SpiderConfig, VisitLog
 
 admin_bp = Blueprint('admin', __name__)
 

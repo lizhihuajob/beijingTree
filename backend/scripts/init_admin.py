@@ -3,8 +3,8 @@ import os
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from admin_app import create_admin_app, db
-from app.models import Admin
+from admin_app import create_admin_app
+from app.models import db, Admin
 
 def init_admin():
     app = create_admin_app()

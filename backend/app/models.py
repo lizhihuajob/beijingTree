@@ -1,6 +1,8 @@
 from datetime import datetime
-from app import db
+from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
+
+db = SQLAlchemy()
 
 class Admin(db.Model):
     __tablename__ = 'admins'
